@@ -1,0 +1,49 @@
+{
+  "name": "backend",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "sourceRoot": "apps/backend",
+  "targets": {
+    "serve": {
+      "executor": "nx:run-commands",
+      "options": {
+        "commands": [
+          ".venv/bin/python apps/backend/manage.py runserver 0.0.0.0:8000"
+        ],
+        "parallel": false
+      }
+    },
+    "migrate": {
+      "executor": "nx:run-commands",
+      "options": {
+        "commands": [
+          ".venv/bin/python apps/backend/manage.py migrate"
+        ]
+      }
+    },
+    "makemigrations": {
+      "executor": "nx:run-commands",
+      "options": {
+        "commands": [
+          ".venv/bin/python apps/backend/manage.py makemigrations"
+        ]
+      }
+    },
+    "shell": {
+      "executor": "nx:run-commands",
+      "options": {
+        "commands": [
+          ".venv/bin/python apps/backend/manage.py shell"
+        ]
+      }
+    },
+    "test": {
+      "executor": "nx:run-commands",
+      "options": {
+        "commands": [
+          ".venv/bin/python apps/backend/manage.py test"
+        ]
+      }
+    }
+  }
+}
