@@ -128,6 +128,15 @@ Your services will be available at:
 To avoid CORS issues and facilitate clean requests in the frontend (e.g. fetching `/api/users`), Vite's dev server is configured to proxy `/api` requests to Django at `http://127.0.0.1:8000`.
 This configuration lives in [apps/frontend/vite.config.mts](file:///home/zishan/professional_code/pharma-sales-intelligence-platform/apps/frontend/vite.config.mts).
 
+### Tailwind CSS v4 & Material UI v9 Interoperability
+To allow Tailwind CSS utility classes to override Material UI component styles predictably without using `!important`, they are integrated using **CSS Cascade Layers**:
+1. **MUI Styling Cache**: Wrapped in [apps/frontend/src/root.tsx](file:///home/zishan/professional_code/pharma-sales-intelligence-platform/apps/frontend/src/root.tsx) using `<StyledEngineProvider enableCssLayer>` which compiles MUI/Emotion styles into the `@layer mui` CSS layer.
+2. **Layer Ordering**: Established in [apps/frontend/src/styles.css](file:///home/zishan/professional_code/pharma-sales-intelligence-platform/apps/frontend/src/styles.css) as `@layer theme, base, mui, components, utilities;`. This ensures that Tailwind utilities layer comes *after* `mui` styles, giving Tailwind precedence.
+
+### State Management & RTK Query
+- State management is handled globally by **Redux Toolkit** and **RTK Query** defined in [apps/frontend/src/app/store.ts](file:///home/zishan/professional_code/pharma-sales-intelligence-platform/apps/frontend/src/app/store.ts).
+- An initial API slice is configured in [apps/frontend/src/app/api/pharmaApi.ts](file:///home/zishan/professional_code/pharma-sales-intelligence-platform/apps/frontend/src/app/api/pharmaApi.ts) to query backend endpoints.
+
 ### Django Settings & CORS
 - Django CORS headers are configured using `django-cors-headers`.
 - Development settings are located in [apps/backend/backend/settings.py](file:///home/zishan/professional_code/pharma-sales-intelligence-platform/apps/backend/backend/settings.py) and allow access from `http://localhost:4200` and `http://127.0.0.1:4200`.
