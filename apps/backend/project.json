@@ -44,6 +44,22 @@
           ".venv/bin/python apps/backend/manage.py test"
         ]
       }
+    },
+    "import-csv": {
+      "executor": "nx:run-commands",
+      "options": {
+        "commands": [
+          ".venv/bin/python apps/backend/manage.py import_csv example-dataset/global_pharmacy_sales_2020_2025_daily_dataset.csv"
+        ]
+      }
+    },
+    "createsuperuser": {
+      "executor": "nx:run-commands",
+      "options": {
+        "commands": [
+          ".venv/bin/python apps/backend/manage.py createsuperuser"
+        ]
+      }
     }
   }
 }

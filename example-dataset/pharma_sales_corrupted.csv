@@ -1,0 +1,751 @@
+date,year,day,region,country,category,drug_name,age_group,qty,unit_price,stock_level,expiry_days_remaining
+2024-09-14,2024,14,Oceania,New Zealand,Cough_Cold,Cough Syrup,13-25,431,12.74,17,156
+10/06/2020,2020,10,North America,Mexico,Respiratory,Salbutamol,65+,210,16.17,1345,341
+2025-03-09,2025,9,North America,Canada,Chronic,Omeprazole,65+,115,41.99,1423,160
+not_a_date,2023,2,South Asia,Bangladesh,Diabetes,Metformin,46-65,306,16.99,151,522
+2025-02-08,2025,8,Oceania,Australia,Vitamin,Vitamin C,0-12,251,9.62,397,374
+24/06/2023,2023,24,Africa,South Africa,Cough_Cold,Cough Syrup,46-65,361,13.0,666,961
+not_a_date,2020,16,North America,Mexico,Antibiotic,Azithromycin,65+,361,27.48,318,318
+2024-03-03,2024,3,South America,Brazil,Vitamin,Vitamin C,65+,125,9.69,1749,927
+not_a_date,2024,5,North America,Canada,Diabetes,Metformin,13-25,str_350,13.14,1307,52
+2021-01-21,2021,21,Middle East,UAE,Antibiotic,Azithromycin,0-12,295,33.84,427,822
+not_a_date,2022,11,Middle East,Saudi Arabia,Antibiotic,Azithromycin,13-25,429,27.96,1439,412
+07/10/2022,2022,7,South Asia,India,Chronic,Omeprazole,13-25,411,40.99,60,526
+2022-02-16,2022,16,Oceania,Australia,Vitamin,Vitamin C,13-25,str_282,10.27,485,381
+14/11/2025,2025,14,East Asia,China,Vitamin,Vitamin C,0-12,198,11.93,1520,973
+09/03/2025,2025,9,Middle East,Saudi Arabia,Chronic,Omeprazole,65+,str_30,37.74,1713,228
+2020-07-01,2020,1,North America,Canada,Chronic,Omeprazole,13-25,138,46.88,1090,490
+2023-04-07,2023,7,Africa,Nigeria,Cardiovascular,Amlodipine,26-45,290,22.84,1101,75
+20/01/2025,2025,20,Africa,Nigeria,Cardiovascular,Atorvastatin,46-65,449,22.95,850,839
+02/02/2020,2020,2,South America,Argentina,Diabetes,Metformin,65+,405,14.14,936,419
+not_a_date,2021,3,Europe,Germany,Diabetes,Metformin,26-45,str_291,17.07,519,511
+not_a_date,2024,6,East Asia,South Korea,Diabetes,Metformin,26-45,462,15.36,204,121
+not_a_date,2022,16,North America,Mexico,Respiratory,Salbutamol,65+,365,20.33,233,628
+not_a_date,2022,14,Middle East,UAE,Chronic,Omeprazole,26-45,460,41.76,820,657
+22/04/2023,2023,22,Europe,France,Chronic,Omeprazole,13-25,257,39.88,417,961
+2022-05-07,2022,7,North America,USA,Vitamin,Vitamin C,65+,164,11.23,367,149
+05/10/2022,2022,5,North America,Canada,Cardiovascular,Amlodipine,65+,110,27.0,681,398
+26/03/2022,2022,26,South Asia,Bangladesh,Antibiotic,Azithromycin,65+,84,34.17,660,166
+07/12/2020,2020,7,Oceania,New Zealand,Vitamin,Vitamin C,0-12,363,10.09,597,186
+2024-06-05,2024,5,South Asia,Bangladesh,Antibiotic,Amoxicillin,13-25,475,35.57,748,783
+21/07/2020,2020,21,Oceania,New Zealand,Antibiotic,Azithromycin,65+,319,27.13,81,789
+2021-02-16,2021,16,South America,Colombia,Cardiovascular,Atorvastatin,26-45,78,27.62,504,226
+not_a_date,2021,28,Africa,South Africa,Antibiotic,Azithromycin,0-12,294,27.36,1234,222
+19/05/2021,2021,19,East Asia,China,Antibiotic,Amoxicillin,26-45,str_185,30.36,1719,172
+not_a_date,2022,11,South Asia,India,Vitamin,Vitamin C,65+,str_358,11.94,576,289
+2023-09-23,2023,23,Europe,Germany,Antibiotic,Amoxicillin,0-12,str_52,31.12,343,888
+15/04/2021,2021,15,Africa,South Africa,Respiratory,Salbutamol,13-25,19,19.77,753,72
+not_a_date,2021,23,South America,Brazil,Cardiovascular,Atorvastatin,65+,98,20.85,1894,916
+2022-04-11,2022,11,North America,Mexico,Cardiovascular,Amlodipine,46-65,225,23.2,1571,252
+not_a_date,2022,26,Africa,Nigeria,Respiratory,Salbutamol,65+,str_26,23.57,1663,792
+not_a_date,2021,11,Oceania,New Zealand,Vitamin,Vitamin C,0-12,414,10.85,317,796
+2021-08-27,2021,27,South Asia,Bangladesh,Diabetes,Metformin,46-65,46,14.85,1668,522
+2025-01-14,2025,14,North America,Mexico,Chronic,Omeprazole,0-12,str_420,36.34,1089,127
+2021-03-24,2021,24,East Asia,South Korea,Chronic,Omeprazole,65+,str_302,35.48,1517,639
+16/01/2024,2024,16,Middle East,Saudi Arabia,Pain_Relief,Paracetamol,0-12,333,6.6,505,541
+2025-12-09,2025,9,Africa,South Africa,Vitamin,Vitamin C,0-12,497,11.59,1340,728
+12/10/2021,2021,12,South Asia,India,Cardiovascular,Atorvastatin,46-65,str_394,24.86,579,576
+not_a_date,2022,22,Oceania,New Zealand,Chronic,Omeprazole,65+,str_499,38.77,1419,292
+23/07/2021,2021,23,Oceania,Australia,Vitamin,Vitamin C,13-25,105,8.85,332,764
+2021-11-08,2021,8,Africa,Nigeria,Vitamin,Vitamin C,46-65,372,9.73,339,853
+not_a_date,2021,13,North America,Mexico,Vitamin,Vitamin C,13-25,325,9.13,1568,72
+not_a_date,2024,26,South America,Colombia,Vitamin,Vitamin C,26-45,298,10.81,768,919
+2021-09-10,2021,10,North America,USA,Chronic,Omeprazole,46-65,456,34.55,18,390
+26/08/2022,2022,26,Africa,South Africa,Diabetes,Metformin,46-65,113,14.99,312,687
+not_a_date,2022,11,Middle East,Saudi Arabia,Cardiovascular,Amlodipine,26-45,374,25.08,38,479
+18/09/2020,2020,18,Oceania,Australia,Diabetes,Metformin,46-65,481,13.9,1252,372
+2022-11-28,2022,28,Oceania,Australia,Cough_Cold,Cough Syrup,0-12,120,12.84,1084,148
+not_a_date,2022,11,Europe,UK,Antibiotic,Amoxicillin,26-45,139,28.1,862,922
+2022-01-14,2022,14,East Asia,China,Cardiovascular,Atorvastatin,46-65,45,25.97,531,165
+not_a_date,2021,24,East Asia,Japan,Vitamin,Vitamin C,26-45,386,8.3,1244,166
+not_a_date,2022,6,Europe,France,Diabetes,Metformin,13-25,279,12.4,904,514
+01/10/2023,2023,1,South Asia,India,Cough_Cold,Cough Syrup,0-12,str_37,10.67,1710,242
+not_a_date,2022,28,East Asia,China,Cough_Cold,Cough Syrup,13-25,351,9.82,107,502
+27/11/2020,2020,27,East Asia,South Korea,Diabetes,Metformin,0-12,474,15.52,925,820
+2025-06-04,2025,4,North America,Mexico,Cardiovascular,Amlodipine,65+,464,25.85,1447,454
+not_a_date,2021,10,Europe,Germany,Pain_Relief,Paracetamol,26-45,str_468,8.22,611,63
+2024-08-26,2024,26,North America,Mexico,Respiratory,Salbutamol,0-12,str_89,23.07,1525,393
+28/04/2025,2025,28,South Asia,Bangladesh,Cough_Cold,Cough Syrup,0-12,282,10.86,978,545
+not_a_date,2020,11,South Asia,Bangladesh,Cardiovascular,Amlodipine,26-45,str_499,29.48,10,910
+2024-02-06,2024,6,Africa,South Africa,Cough_Cold,Cough Syrup,13-25,str_225,12.42,279,962
+not_a_date,2021,20,Africa,Nigeria,Respiratory,Salbutamol,65+,170,23.97,271,766
+not_a_date,2025,8,Europe,Germany,Pain_Relief,Paracetamol,13-25,33,7.99,1933,208
+not_a_date,2022,3,Europe,Italy,Pain_Relief,Paracetamol,26-45,444,8.64,17,262
+not_a_date,2022,30,South Asia,Bangladesh,Diabetes,Metformin,65+,302,13.17,20,418
+not_a_date,2025,3,Africa,Nigeria,Diabetes,Metformin,46-65,128,15.11,1076,334
+not_a_date,2021,10,Middle East,UAE,Pain_Relief,Paracetamol,13-25,60,8.02,1512,213
+31/12/2022,2022,31,Middle East,UAE,Cough_Cold,Cough Syrup,0-12,114,10.94,1895,563
+2023-10-08,2023,8,Africa,South Africa,Antibiotic,Amoxicillin,65+,189,35.95,1094,833
+2020-12-29,2020,29,Middle East,Saudi Arabia,Vitamin,Vitamin C,46-65,500,11.69,312,772
+2021-06-13,2021,13,South Asia,India,Respiratory,Salbutamol,0-12,98,21.46,1221,38
+2024-04-24,2024,24,Middle East,Saudi Arabia,Respiratory,Salbutamol,26-45,333,16.28,1385,898
+2024-10-15,2024,15,Oceania,New Zealand,Diabetes,Metformin,26-45,168,13.59,1590,310
+not_a_date,2020,26,North America,Mexico,Chronic,Omeprazole,46-65,479,45.29,390,795
+not_a_date,2022,10,Oceania,New Zealand,Chronic,Omeprazole,65+,213,39.53,1012,145
+2021-03-19,2021,19,Oceania,Australia,Chronic,Omeprazole,65+,str_398,38.31,1328,300
+2025-07-10,2025,10,Africa,Nigeria,Cough_Cold,Cough Syrup,0-12,10,12.66,354,479
+2025-04-04,2025,4,South Asia,Bangladesh,Antibiotic,Azithromycin,46-65,267,31.98,1451,886
+not_a_date,2022,2,Oceania,Australia,Respiratory,Salbutamol,26-45,319,16.17,29,886
+2022-06-19,2022,19,North America,Mexico,Vitamin,Vitamin C,13-25,str_92,10.46,1309,437
+2025-07-27,2025,27,Oceania,New Zealand,Pain_Relief,Ibuprofen,13-25,89,7.47,1865,678
+2022-09-22,2022,22,South Asia,India,Vitamin,Vitamin C,26-45,127,10.67,610,90
+2025-12-26,2025,26,South Asia,India,Diabetes,Metformin,65+,447,12.47,1072,467
+2022-03-16,2022,16,North America,USA,Antibiotic,Amoxicillin,26-45,370,29.36,574,538
+2023-08-26,2023,26,Oceania,Australia,Cardiovascular,Amlodipine,46-65,490,23.48,347,907
+2022-10-14,2022,14,Oceania,Australia,Vitamin,Vitamin C,13-25,str_207,10.78,42,185
+2021-11-07,2021,7,East Asia,South Korea,Respiratory,Salbutamol,26-45,str_18,21.34,892,917
+2020-03-03,2020,3,North America,Canada,Vitamin,Vitamin C,13-25,403,9.09,1479,641
+not_a_date,2021,15,Africa,Nigeria,Respiratory,Salbutamol,46-65,67,19.75,549,811
+05/11/2021,2021,5,Europe,Germany,Antibiotic,Azithromycin,13-25,str_46,35.12,1117,659
+07/01/2025,2025,7,Oceania,New Zealand,Diabetes,Metformin,65+,200,13.47,830,926
+not_a_date,2022,17,Africa,Nigeria,Cardiovascular,Atorvastatin,65+,28,22.63,966,557
+not_a_date,2020,21,Europe,Germany,Pain_Relief,Paracetamol,26-45,str_439,8.49,676,396
+24/12/2022,2022,24,North America,Canada,Pain_Relief,Ibuprofen,13-25,str_232,8.7,1276,736
+27/10/2024,2024,27,Oceania,New Zealand,Vitamin,Vitamin C,13-25,322,10.62,140,208
+20/02/2023,2023,20,Middle East,UAE,Cough_Cold,Cough Syrup,46-65,481,10.75,861,534
+2024-04-25,2024,25,South America,Colombia,Chronic,Omeprazole,46-65,86,35.64,1947,393
+2024-09-29,2024,29,Africa,South Africa,Diabetes,Metformin,0-12,158,13.7,118,344
+02/08/2021,2021,2,East Asia,China,Respiratory,Salbutamol,13-25,357,17.73,40,899
+2023-06-02,2023,2,South Asia,India,Cough_Cold,Cough Syrup,46-65,str_434,13.66,958,245
+not_a_date,2021,27,Europe,Italy,Diabetes,Metformin,46-65,142,14.43,1347,820
+2025-10-25,2025,25,Middle East,Saudi Arabia,Respiratory,Salbutamol,13-25,412,17.7,808,700
+not_a_date,2024,31,Europe,Italy,Respiratory,Salbutamol,13-25,216,21.46,594,560
+2023-06-12,2023,12,South Asia,India,Cough_Cold,Cough Syrup,26-45,300,10.11,821,452
+2021-10-19,2021,19,North America,Mexico,Antibiotic,Amoxicillin,13-25,str_405,33.16,593,874
+not_a_date,2024,29,Oceania,Australia,Antibiotic,Azithromycin,0-12,476,35.87,18,492
+not_a_date,2022,28,East Asia,China,Vitamin,Vitamin C,46-65,str_183,8.62,986,219
+29/12/2020,2020,29,Africa,Nigeria,Vitamin,Vitamin C,65+,str_205,8.65,1030,366
+30/06/2022,2022,30,Europe,UK,Vitamin,Vitamin C,0-12,377,8.6,964,748
+19/10/2025,2025,19,South Asia,Bangladesh,Cardiovascular,Atorvastatin,13-25,str_442,26.36,673,842
+not_a_date,2020,7,East Asia,China,Cardiovascular,Atorvastatin,26-45,51,28.56,1479,355
+06/08/2024,2024,6,Europe,France,Diabetes,Metformin,0-12,217,15.56,76,131
+2020-12-21,2020,21,Middle East,Saudi Arabia,Respiratory,Salbutamol,26-45,344,21.21,352,932
+not_a_date,2024,5,Oceania,New Zealand,Pain_Relief,Ibuprofen,26-45,14,9.15,1765,116
+18/04/2023,2023,18,East Asia,Japan,Vitamin,Vitamin C,0-12,121,9.43,1664,361
+2020-06-19,2020,19,Middle East,UAE,Cough_Cold,Cough Syrup,13-25,140,11.4,670,98
+2025-06-13,2025,13,North America,Canada,Pain_Relief,Paracetamol,46-65,302,6.87,6,87
+not_a_date,2023,3,Middle East,Saudi Arabia,Vitamin,Vitamin C,26-45,228,8.58,1531,787
+2025-04-01,2025,1,Europe,Italy,Vitamin,Vitamin C,65+,80,11.28,1648,851
+not_a_date,2021,27,South Asia,Bangladesh,Vitamin,Vitamin C,13-25,62,11.37,601,97
+not_a_date,2025,26,Oceania,Australia,Chronic,Omeprazole,65+,78,32.03,1343,127
+02/10/2020,2020,2,Oceania,New Zealand,Respiratory,Salbutamol,46-65,377,20.72,94,458
+not_a_date,2023,28,Africa,South Africa,Diabetes,Metformin,46-65,287,12.03,1216,325
+2022-11-02,2022,2,South Asia,India,Antibiotic,Azithromycin,0-12,499,24.22,265,899
+23/12/2025,2025,23,East Asia,Japan,Cardiovascular,Amlodipine,65+,str_64,21.66,174,265
+2025-01-31,2025,31,Oceania,Australia,Diabetes,Metformin,26-45,str_387,15.06,23,951
+2023-03-21,2023,21,East Asia,Japan,Antibiotic,Azithromycin,26-45,141,28.1,963,304
+29/08/2024,2024,29,East Asia,Japan,Chronic,Omeprazole,46-65,473,35.05,314,132
+not_a_date,2025,5,Oceania,New Zealand,Chronic,Omeprazole,13-25,93,44.3,116,745
+not_a_date,2022,29,North America,USA,Respiratory,Salbutamol,26-45,309,20.59,589,407
+2024-06-25,2024,25,East Asia,Japan,Cough_Cold,Cough Syrup,26-45,169,11.19,1194,383
+16/02/2020,2020,16,South Asia,India,Chronic,Omeprazole,26-45,249,46.72,1715,779
+not_a_date,2023,13,Africa,Nigeria,Vitamin,Vitamin C,0-12,130,11.82,905,567
+12/03/2025,2025,12,North America,Mexico,Pain_Relief,Paracetamol,46-65,379,6.49,799,655
+not_a_date,2023,6,South Asia,Bangladesh,Chronic,Omeprazole,46-65,str_498,39.28,817,104
+2020-02-01,2020,1,South Asia,Bangladesh,Cardiovascular,Amlodipine,0-12,474,26.16,1524,538
+2022-12-17,2022,17,South Asia,Bangladesh,Chronic,Omeprazole,13-25,334,35.86,30,693
+30/06/2024,2024,30,North America,USA,Antibiotic,Amoxicillin,65+,str_402,32.99,1655,630
+31/12/2020,2020,31,Oceania,New Zealand,Diabetes,Metformin,26-45,327,13.38,68,762
+20/04/2020,2020,20,South America,Argentina,Vitamin,Vitamin C,13-25,255,10.97,459,772
+2024-02-23,2024,23,South Asia,India,Antibiotic,Azithromycin,26-45,469,28.49,1038,840
+2024-01-11,2024,11,Oceania,Australia,Cardiovascular,Amlodipine,65+,str_108,21.4,20,637
+09/01/2025,2025,9,Europe,UK,Cough_Cold,Cough Syrup,0-12,351,11.24,992,78
+2021-07-09,2021,9,Middle East,UAE,Cardiovascular,Amlodipine,46-65,61,20.19,1508,839
+not_a_date,2023,8,East Asia,South Korea,Cough_Cold,Cough Syrup,13-25,194,10.54,87,523
+2024-02-20,2024,20,Africa,South Africa,Vitamin,Vitamin C,0-12,47,8.89,1770,464
+08/11/2020,2020,8,South Asia,Bangladesh,Diabetes,Metformin,26-45,str_273,15.18,1396,831
+2024-02-11,2024,11,East Asia,Japan,Cardiovascular,Amlodipine,13-25,121,28.23,1500,295
+2024-06-25,2024,25,Middle East,Saudi Arabia,Respiratory,Salbutamol,26-45,404,23.09,1054,448
+2024-12-30,2024,30,Africa,South Africa,Cardiovascular,Atorvastatin,26-45,237,21.75,1509,622
+2022-07-28,2022,28,Middle East,Saudi Arabia,Pain_Relief,Paracetamol,0-12,134,6.44,1612,33
+04/04/2025,2025,4,Oceania,New Zealand,Antibiotic,Amoxicillin,26-45,418,35.53,374,66
+07/05/2024,2024,7,Africa,Nigeria,Cardiovascular,Amlodipine,65+,25,27.96,1302,159
+2025-03-22,2025,22,South America,Colombia,Cardiovascular,Amlodipine,26-45,283,26.35,41,941
+not_a_date,2023,30,Middle East,Saudi Arabia,Vitamin,Vitamin C,26-45,270,8.29,1038,534
+2024-02-10,2024,10,South Asia,India,Vitamin,Vitamin C,46-65,73,9.8,1019,764
+not_a_date,2020,11,Europe,Italy,Antibiotic,Azithromycin,65+,309,26.16,1562,168
+2023-04-15,2023,15,Africa,South Africa,Diabetes,Metformin,26-45,476,14.94,1468,140
+12/10/2024,2024,12,East Asia,China,Respiratory,Salbutamol,0-12,218,18.68,1686,511
+2021-01-18,2021,18,North America,USA,Diabetes,Metformin,46-65,str_57,15.98,681,313
+2023-03-08,2023,8,Middle East,Saudi Arabia,Vitamin,Vitamin C,65+,str_402,8.67,722,140
+2021-12-25,2021,25,Europe,Germany,Diabetes,Metformin,65+,161,14.23,960,934
+11/02/2024,2024,11,East Asia,China,Diabetes,Metformin,46-65,str_462,15.05,12,276
+21/03/2023,2023,21,Europe,France,Vitamin,Vitamin C,0-12,149,11.34,1805,332
+25/12/2025,2025,25,South Asia,India,Pain_Relief,Ibuprofen,46-65,140,6.73,603,652
+21/04/2023,2023,21,South Asia,India,Chronic,Omeprazole,65+,189,34.73,640,828
+2023-02-20,2023,20,South Asia,Bangladesh,Chronic,Omeprazole,65+,282,47.25,42,31
+2023-11-17,2023,17,East Asia,China,Cardiovascular,Atorvastatin,13-25,str_185,24.33,90,46
+10/10/2021,2021,10,Oceania,New Zealand,Diabetes,Metformin,13-25,88,13.23,490,622
+2024-03-24,2024,24,Oceania,New Zealand,Vitamin,Vitamin C,13-25,217,8.73,896,182
+2020-01-09,2020,9,Middle East,UAE,Diabetes,Metformin,26-45,355,16.22,298,309
+2021-02-24,2021,24,North America,Canada,Chronic,Omeprazole,65+,295,47.18,498,985
+10/08/2023,2023,10,Middle East,Saudi Arabia,Vitamin,Vitamin C,13-25,str_490,8.38,26,185
+03/11/2021,2021,3,South Asia,India,Pain_Relief,Ibuprofen,26-45,239,7.31,1234,913
+31/07/2024,2024,31,South Asia,India,Respiratory,Salbutamol,26-45,52,19.25,609,873
+not_a_date,2023,27,Europe,Italy,Cardiovascular,Atorvastatin,26-45,71,20.56,1820,716
+09/03/2021,2021,9,Middle East,UAE,Vitamin,Vitamin C,13-25,144,11.88,1257,801
+not_a_date,2021,7,South Asia,Bangladesh,Cough_Cold,Cough Syrup,65+,491,13.65,745,388
+01/09/2021,2021,1,Europe,UK,Pain_Relief,Ibuprofen,26-45,393,8.03,513,140
+2020-03-12,2020,12,Oceania,New Zealand,Vitamin,Vitamin C,13-25,str_315,11.56,773,380
+22/12/2023,2023,22,Oceania,New Zealand,Chronic,Omeprazole,46-65,str_224,39.76,508,560
+not_a_date,2023,25,North America,Canada,Diabetes,Metformin,0-12,212,13.01,1237,919
+14/04/2022,2022,14,East Asia,China,Respiratory,Salbutamol,26-45,108,16.48,1629,542
+15/05/2025,2025,15,Europe,Germany,Chronic,Omeprazole,13-25,426,44.62,948,182
+not_a_date,2023,12,Africa,Nigeria,Vitamin,Vitamin C,65+,str_150,10.53,1752,650
+02/07/2023,2023,2,South Asia,India,Diabetes,Metformin,46-65,344,12.24,46,802
+not_a_date,2020,9,Middle East,UAE,Antibiotic,Azithromycin,65+,485,33.48,49,593
+not_a_date,2024,13,Africa,Nigeria,Pain_Relief,Paracetamol,13-25,str_54,7.82,357,987
+29/07/2020,2020,29,South America,Colombia,Respiratory,Salbutamol,13-25,423,23.56,632,608
+not_a_date,2020,1,South Asia,Bangladesh,Cough_Cold,Cough Syrup,0-12,237,12.76,131,741
+28/10/2022,2022,28,North America,Canada,Chronic,Omeprazole,65+,73,39.96,102,758
+2020-06-18,2020,18,Europe,France,Chronic,Omeprazole,13-25,420,41.62,397,615
+not_a_date,2021,15,Middle East,UAE,Chronic,Omeprazole,26-45,52,40.42,1695,352
+30/03/2024,2024,30,South America,Colombia,Respiratory,Salbutamol,13-25,370,20.62,41,263
+2024-04-04,2024,4,Africa,Nigeria,Diabetes,Metformin,65+,65,16.95,1415,634
+not_a_date,2020,22,South America,Brazil,Respiratory,Salbutamol,13-25,161,20.09,1132,497
+2025-11-16,2025,16,Africa,South Africa,Vitamin,Vitamin C,26-45,251,9.98,46,620
+2023-07-06,2023,6,South Asia,India,Vitamin,Vitamin C,0-12,315,11.73,1302,302
+19/03/2021,2021,19,Africa,Nigeria,Antibiotic,Amoxicillin,46-65,243,28.83,739,651
+not_a_date,2024,11,South Asia,India,Pain_Relief,Paracetamol,0-12,458,9.01,12,550
+2022-04-22,2022,22,South Asia,Bangladesh,Vitamin,Vitamin C,13-25,358,10.7,734,247
+2024-03-28,2024,28,South America,Argentina,Chronic,Omeprazole,0-12,123,45.38,906,961
+20/01/2020,2020,20,Middle East,Saudi Arabia,Antibiotic,Amoxicillin,13-25,166,28.74,1715,97
+22/10/2022,2022,22,South Asia,Bangladesh,Respiratory,Salbutamol,26-45,492,18.46,704,726
+22/07/2023,2023,22,Europe,UK,Pain_Relief,Ibuprofen,65+,306,9.14,1229,735
+2023-08-15,2023,15,North America,Mexico,Diabetes,Metformin,46-65,185,16.35,17,200
+13/12/2020,2020,13,Africa,South Africa,Respiratory,Salbutamol,0-12,82,17.79,247,655
+not_a_date,2021,21,South America,Brazil,Cardiovascular,Amlodipine,46-65,413,27.67,33,501
+2021-03-17,2021,17,Oceania,New Zealand,Vitamin,Vitamin C,65+,79,10.17,1466,270
+2025-07-08,2025,8,South America,Brazil,Vitamin,Vitamin C,26-45,str_376,11.65,404,104
+27/08/2022,2022,27,East Asia,South Korea,Diabetes,Metformin,65+,str_318,15.72,677,341
+2023-03-06,2023,6,East Asia,Japan,Cough_Cold,Cough Syrup,0-12,str_256,12.0,1519,309
+not_a_date,2024,18,Africa,Nigeria,Vitamin,Vitamin C,26-45,209,10.61,39,352
+27/03/2025,2025,27,Europe,Italy,Antibiotic,Azithromycin,65+,str_97,26.92,1502,746
+not_a_date,2021,15,Africa,Nigeria,Vitamin,Vitamin C,26-45,82,9.88,1826,303
+not_a_date,2020,19,Middle East,UAE,Antibiotic,Amoxicillin,46-65,206,34.41,314,92
+12/12/2024,2024,12,Middle East,UAE,Vitamin,Vitamin C,0-12,430,11.8,1403,316
+19/07/2024,2024,19,East Asia,Japan,Cardiovascular,Atorvastatin,26-45,287,26.9,50,356
+not_a_date,2024,18,North America,Canada,Pain_Relief,Ibuprofen,26-45,478,8.6,1317,205
+12/07/2023,2023,12,South America,Brazil,Chronic,Omeprazole,13-25,121,42.16,1616,471
+not_a_date,2023,2,East Asia,China,Diabetes,Metformin,46-65,339,14.08,48,710
+not_a_date,2023,8,Middle East,Saudi Arabia,Cardiovascular,Amlodipine,26-45,462,26.81,1183,811
+15/01/2024,2024,15,South America,Brazil,Diabetes,Metformin,13-25,185,16.48,606,748
+2021-04-02,2021,2,South America,Argentina,Vitamin,Vitamin C,13-25,111,9.58,1123,841
+not_a_date,2020,1,North America,USA,Cardiovascular,Amlodipine,65+,343,23.93,537,345
+2024-04-08,2024,8,North America,Canada,Cardiovascular,Amlodipine,65+,27,26.31,1315,68
+28/03/2021,2021,28,Middle East,Saudi Arabia,Vitamin,Vitamin C,0-12,130,8.88,1295,667
+2021-05-20,2021,20,East Asia,China,Cough_Cold,Cough Syrup,13-25,455,12.56,42,555
+2024-12-18,2024,18,Africa,South Africa,Respiratory,Salbutamol,13-25,147,19.44,273,777
+not_a_date,2020,9,East Asia,Japan,Pain_Relief,Ibuprofen,65+,381,8.54,550,782
+2025-09-14,2025,14,Middle East,UAE,Cardiovascular,Atorvastatin,65+,194,26.49,610,991
+not_a_date,2020,31,North America,Mexico,Vitamin,Vitamin C,13-25,425,11.5,1208,892
+18/03/2021,2021,18,Europe,France,Cardiovascular,Amlodipine,65+,285,24.5,1585,669
+2023-07-19,2023,19,North America,Mexico,Antibiotic,Azithromycin,46-65,str_90,28.65,342,762
+not_a_date,2025,9,South Asia,India,Cough_Cold,Cough Syrup,65+,173,10.15,1644,309
+2021-10-18,2021,18,South Asia,India,Vitamin,Vitamin C,65+,169,9.22,822,501
+not_a_date,2024,5,Middle East,Saudi Arabia,Vitamin,Vitamin C,26-45,235,8.58,145,168
+03/05/2025,2025,3,North America,Mexico,Vitamin,Vitamin C,26-45,str_198,9.4,931,349
+2020-11-19,2020,19,Middle East,Saudi Arabia,Respiratory,Salbutamol,46-65,137,17.38,1455,109
+2023-01-05,2023,5,Oceania,New Zealand,Cardiovascular,Atorvastatin,46-65,492,27.22,1250,373
+not_a_date,2022,13,North America,USA,Diabetes,Metformin,0-12,331,17.8,1146,937
+2023-01-25,2023,25,South America,Brazil,Vitamin,Vitamin C,65+,str_189,8.83,1071,174
+2022-07-23,2022,23,Oceania,New Zealand,Cough_Cold,Cough Syrup,0-12,408,11.43,978,158
+not_a_date,2022,27,Africa,Nigeria,Respiratory,Salbutamol,26-45,327,18.91,1128,374
+2024-10-18,2024,18,Oceania,New Zealand,Respiratory,Salbutamol,0-12,276,21.34,198,484
+2023-12-28,2023,28,Oceania,Australia,Diabetes,Metformin,46-65,46,13.21,778,810
+not_a_date,2025,20,North America,USA,Cardiovascular,Atorvastatin,46-65,330,21.22,430,497
+not_a_date,2022,2,Africa,Nigeria,Cardiovascular,Amlodipine,0-12,171,26.63,29,961
+2022-11-12,2022,12,Middle East,Saudi Arabia,Respiratory,Salbutamol,26-45,392,20.27,1276,887
+14/01/2024,2024,14,Middle East,Saudi Arabia,Respiratory,Salbutamol,26-45,214,23.22,1661,355
+09/01/2025,2025,9,East Asia,China,Respiratory,Salbutamol,0-12,449,22.86,756,114
+2024-01-14,2024,14,North America,USA,Vitamin,Vitamin C,13-25,378,11.54,139,597
+not_a_date,2021,9,Europe,Germany,Diabetes,Metformin,26-45,str_112,13.08,1352,703
+not_a_date,2023,30,Africa,South Africa,Cardiovascular,Atorvastatin,13-25,241,21.74,374,70
+not_a_date,2021,28,Middle East,Saudi Arabia,Vitamin,Vitamin C,26-45,395,9.58,801,810
+06/12/2024,2024,6,Africa,Nigeria,Antibiotic,Amoxicillin,65+,str_418,28.41,843,114
+2024-05-25,2024,25,Africa,South Africa,Cardiovascular,Amlodipine,65+,496,29.85,931,970
+04/08/2024,2024,4,Africa,South Africa,Respiratory,Salbutamol,46-65,41,22.94,1722,703
+2020-11-22,2020,22,North America,Canada,Vitamin,Vitamin C,26-45,112,9.97,1640,146
+2020-03-30,2020,30,Oceania,New Zealand,Cardiovascular,Amlodipine,46-65,str_314,25.82,1522,331
+not_a_date,2025,6,Oceania,Australia,Respiratory,Salbutamol,26-45,245,19.91,1091,182
+23/08/2022,2022,23,East Asia,China,Antibiotic,Azithromycin,46-65,str_453,25.67,33,107
+2022-04-15,2022,15,East Asia,Japan,Vitamin,Vitamin C,13-25,str_51,9.41,1633,354
+not_a_date,2024,16,South Asia,India,Cardiovascular,Atorvastatin,46-65,367,23.34,433,624
+not_a_date,2025,19,Africa,Nigeria,Chronic,Omeprazole,46-65,21,40.32,476,904
+2024-11-07,2024,7,East Asia,Japan,Diabetes,Metformin,65+,431,15.4,32,139
+not_a_date,2023,28,Europe,Germany,Antibiotic,Amoxicillin,26-45,149,27.47,647,759
+not_a_date,2022,6,Middle East,UAE,Chronic,Omeprazole,46-65,278,38.58,32,254
+01/04/2023,2023,1,East Asia,China,Chronic,Omeprazole,65+,470,43.37,932,125
+2021-03-07,2021,7,North America,Mexico,Respiratory,Salbutamol,65+,448,16.63,35,513
+09/11/2025,2025,9,Oceania,Australia,Vitamin,Vitamin C,46-65,67,8.43,1068,578
+2020-01-11,2020,11,Europe,Italy,Cardiovascular,Atorvastatin,26-45,75,20.81,239,92
+19/10/2020,2020,19,Europe,UK,Cardiovascular,Amlodipine,13-25,str_263,20.78,177,657
+2023-12-27,2023,27,North America,Canada,Cardiovascular,Atorvastatin,46-65,462,22.37,1338,174
+not_a_date,2023,13,North America,Canada,Respiratory,Salbutamol,26-45,455,23.42,222,787
+not_a_date,2022,4,North America,USA,Chronic,Omeprazole,26-45,435,40.78,509,521
+not_a_date,2024,23,Africa,Nigeria,Chronic,Omeprazole,26-45,108,39.91,1019,899
+2020-08-04,2020,4,Africa,South Africa,Respiratory,Salbutamol,0-12,88,23.63,1147,438
+2020-04-15,2020,15,Africa,South Africa,Vitamin,Vitamin C,46-65,288,10.47,1561,615
+2020-04-30,2020,30,South Asia,India,Vitamin,Vitamin C,65+,215,8.21,1417,472
+not_a_date,2021,8,Africa,Nigeria,Antibiotic,Amoxicillin,26-45,340,27.85,15,697
+07/12/2024,2024,7,Europe,Italy,Respiratory,Salbutamol,0-12,313,21.09,1480,527
+not_a_date,2020,9,South Asia,Bangladesh,Chronic,Omeprazole,46-65,111,41.02,368,274
+2020-11-28,2020,28,Oceania,New Zealand,Cough_Cold,Cough Syrup,26-45,32,11.18,1408,493
+2020-03-25,2020,25,South America,Colombia,Respiratory,Salbutamol,26-45,10,19.33,1026,771
+12/08/2020,2020,12,Middle East,UAE,Vitamin,Vitamin C,0-12,99,9.46,1323,98
+2022-09-05,2022,5,North America,Mexico,Vitamin,Vitamin C,26-45,167,10.53,608,446
+not_a_date,2024,10,Oceania,New Zealand,Pain_Relief,Ibuprofen,13-25,102,7.64,70,254
+21/12/2024,2024,21,Middle East,Saudi Arabia,Diabetes,Metformin,26-45,464,12.57,29,595
+not_a_date,2022,14,North America,USA,Pain_Relief,Ibuprofen,13-25,306,8.69,33,744
+2023-05-27,2023,27,South Asia,India,Diabetes,Metformin,65+,450,15.21,345,785
+not_a_date,2024,9,Europe,Italy,Diabetes,Metformin,65+,264,16.27,1236,83
+02/10/2025,2025,2,Oceania,Australia,Cough_Cold,Cough Syrup,26-45,221,14.0,1151,30
+2025-05-31,2025,31,North America,Mexico,Diabetes,Metformin,26-45,str_110,12.25,1600,287
+not_a_date,2025,31,Europe,France,Cough_Cold,Cough Syrup,13-25,32,12.49,249,91
+not_a_date,2023,17,Africa,Nigeria,Vitamin,Vitamin C,0-12,115,8.18,798,471
+2021-05-13,2021,13,Oceania,Australia,Vitamin,Vitamin C,13-25,274,10.26,1467,507
+24/08/2021,2021,24,South America,Argentina,Vitamin,Vitamin C,65+,199,9.0,380,439
+2020-07-10,2020,10,Middle East,UAE,Antibiotic,Azithromycin,0-12,257,34.56,19,53
+2020-07-21,2020,21,Africa,South Africa,Vitamin,Vitamin C,46-65,497,8.02,11,789
+2021-07-19,2021,19,Middle East,Saudi Arabia,Antibiotic,Amoxicillin,65+,297,28.57,11,204
+15/09/2022,2022,15,Europe,Italy,Antibiotic,Amoxicillin,46-65,108,25.07,953,515
+not_a_date,2022,28,Africa,South Africa,Diabetes,Metformin,46-65,160,12.44,1539,254
+2024-11-19,2024,19,Africa,Nigeria,Chronic,Omeprazole,46-65,str_407,43.08,443,524
+2022-10-28,2022,28,Middle East,Saudi Arabia,Chronic,Omeprazole,0-12,str_194,41.68,1204,272
+not_a_date,2020,2,South America,Colombia,Vitamin,Vitamin C,13-25,459,8.35,1093,874
+not_a_date,2024,5,Europe,France,Cardiovascular,Atorvastatin,46-65,36,23.25,469,272
+20/04/2020,2020,20,North America,Mexico,Diabetes,Metformin,26-45,158,15.15,1103,66
+not_a_date,2025,7,South America,Argentina,Diabetes,Metformin,26-45,str_166,12.26,142,495
+2024-01-29,2024,29,Africa,Nigeria,Cardiovascular,Amlodipine,46-65,91,29.1,911,409
+not_a_date,2023,23,South America,Brazil,Diabetes,Metformin,26-45,171,14.52,230,576
+2020-11-23,2020,23,Middle East,Saudi Arabia,Respiratory,Salbutamol,13-25,153,21.98,1125,684
+2024-11-29,2024,29,South Asia,Bangladesh,Vitamin,Vitamin C,13-25,230,10.74,1420,645
+2023-11-18,2023,18,East Asia,South Korea,Vitamin,Vitamin C,0-12,177,8.0,786,800
+not_a_date,2025,6,Middle East,Saudi Arabia,Pain_Relief,Ibuprofen,26-45,468,7.95,38,785
+2024-07-18,2024,18,Africa,Nigeria,Diabetes,Metformin,26-45,52,16.22,1054,690
+not_a_date,2024,28,Europe,UK,Cough_Cold,Cough Syrup,0-12,str_205,12.46,1053,473
+2022-12-25,2022,25,South America,Brazil,Diabetes,Metformin,46-65,259,12.88,1373,515
+not_a_date,2021,10,South Asia,India,Vitamin,Vitamin C,26-45,str_403,9.6,127,103
+19/01/2021,2021,19,Oceania,Australia,Respiratory,Salbutamol,26-45,358,17.42,1368,198
+2022-05-29,2022,29,Africa,South Africa,Pain_Relief,Ibuprofen,26-45,176,7.19,1434,74
+not_a_date,2024,1,Middle East,UAE,Cardiovascular,Atorvastatin,26-45,64,20.6,566,624
+not_a_date,2022,2,Oceania,Australia,Vitamin,Vitamin C,13-25,176,11.89,961,549
+not_a_date,2025,9,Middle East,Saudi Arabia,Diabetes,Metformin,65+,50,15.73,343,884
+not_a_date,2020,26,Middle East,UAE,Pain_Relief,Paracetamol,0-12,str_162,8.99,1209,871
+not_a_date,2022,16,Oceania,New Zealand,Antibiotic,Amoxicillin,13-25,312,31.03,1353,235
+21/10/2023,2023,21,Oceania,Australia,Cough_Cold,Cough Syrup,13-25,44,14.03,1918,525
+not_a_date,2021,2,Oceania,New Zealand,Respiratory,Salbutamol,13-25,str_200,17.74,24,797
+2021-01-25,2021,25,North America,Canada,Respiratory,Salbutamol,26-45,425,19.64,979,47
+not_a_date,2024,11,South America,Colombia,Cardiovascular,Amlodipine,0-12,str_160,29.88,1247,620
+not_a_date,2020,8,North America,Mexico,Pain_Relief,Paracetamol,26-45,402,9.54,631,387
+23/07/2021,2021,23,Africa,South Africa,Vitamin,Vitamin C,65+,48,9.94,1075,657
+23/01/2024,2024,23,North America,Mexico,Chronic,Omeprazole,46-65,103,36.08,457,346
+not_a_date,2024,8,South America,Argentina,Vitamin,Vitamin C,0-12,97,9.53,1145,50
+08/02/2024,2024,8,Middle East,UAE,Cough_Cold,Cough Syrup,13-25,334,11.85,904,358
+not_a_date,2023,8,Africa,South Africa,Cardiovascular,Atorvastatin,46-65,str_469,26.89,44,520
+2025-04-24,2025,24,Africa,Nigeria,Vitamin,Vitamin C,13-25,166,9.48,580,879
+25/12/2024,2024,25,North America,Canada,Cardiovascular,Atorvastatin,65+,490,26.04,618,168
+2025-09-12,2025,12,East Asia,Japan,Chronic,Omeprazole,46-65,130,38.59,1493,542
+2023-01-11,2023,11,South America,Argentina,Cough_Cold,Cough Syrup,13-25,str_262,10.75,25,32
+2025-06-20,2025,20,Europe,UK,Chronic,Omeprazole,46-65,463,46.39,633,217
+2021-02-28,2021,28,Europe,Italy,Antibiotic,Azithromycin,13-25,277,31.98,1026,119
+01/06/2021,2021,1,South Asia,India,Antibiotic,Amoxicillin,26-45,22,28.41,157,425
+not_a_date,2021,20,South America,Brazil,Cardiovascular,Atorvastatin,46-65,267,28.04,798,929
+not_a_date,2024,23,North America,Mexico,Cardiovascular,Amlodipine,46-65,183,20.01,1311,143
+not_a_date,2023,19,Oceania,New Zealand,Respiratory,Salbutamol,65+,405,17.26,707,604
+2021-02-17,2021,17,East Asia,South Korea,Chronic,Omeprazole,26-45,337,44.06,1045,657
+not_a_date,2021,2,Europe,Italy,Vitamin,Vitamin C,0-12,396,9.34,1483,654
+01/01/2023,2023,1,Europe,France,Chronic,Omeprazole,26-45,60,44.85,1805,770
+not_a_date,2024,28,Middle East,UAE,Cough_Cold,Cough Syrup,13-25,226,13.36,1547,119
+2025-09-30,2025,30,Middle East,Saudi Arabia,Vitamin,Vitamin C,0-12,458,9.05,1249,689
+2024-12-27,2024,27,North America,Canada,Cough_Cold,Cough Syrup,0-12,147,9.91,1754,440
+2024-11-27,2024,27,Europe,Italy,Pain_Relief,Ibuprofen,0-12,466,8.28,1246,594
+2023-03-29,2023,29,South America,Brazil,Cardiovascular,Atorvastatin,65+,436,20.71,664,201
+02/01/2020,2020,2,Oceania,New Zealand,Vitamin,Vitamin C,46-65,str_485,11.65,123,65
+2025-12-04,2025,4,Europe,Germany,Pain_Relief,Paracetamol,13-25,str_92,6.59,1650,545
+2020-02-27,2020,27,Africa,Nigeria,Antibiotic,Amoxicillin,26-45,str_331,31.72,138,884
+06/12/2021,2021,6,South Asia,Bangladesh,Pain_Relief,Paracetamol,13-25,345,8.49,529,633
+30/06/2023,2023,30,South Asia,India,Antibiotic,Azithromycin,46-65,str_317,30.92,36,66
+not_a_date,2021,5,North America,Canada,Chronic,Omeprazole,13-25,469,37.96,896,191
+not_a_date,2020,25,South America,Brazil,Respiratory,Salbutamol,0-12,str_346,18.39,1593,447
+not_a_date,2025,27,East Asia,South Korea,Chronic,Omeprazole,65+,82,47.41,1524,910
+not_a_date,2020,23,South Asia,India,Cardiovascular,Atorvastatin,65+,348,28.43,907,269
+04/10/2021,2021,4,Oceania,New Zealand,Respiratory,Salbutamol,0-12,85,16.13,1407,719
+27/02/2021,2021,27,North America,Mexico,Respiratory,Salbutamol,0-12,190,21.19,1336,802
+20/05/2020,2020,20,Europe,France,Cough_Cold,Cough Syrup,26-45,21,11.56,417,707
+2020-02-05,2020,5,North America,Mexico,Cardiovascular,Atorvastatin,46-65,392,23.95,24,345
+08/04/2022,2022,8,Europe,Italy,Antibiotic,Amoxicillin,13-25,36,31.28,578,71
+2020-08-23,2020,23,Oceania,New Zealand,Antibiotic,Amoxicillin,65+,453,29.43,710,296
+04/09/2021,2021,4,South Asia,India,Antibiotic,Amoxicillin,26-45,46,25.66,1882,431
+not_a_date,2023,14,North America,Mexico,Vitamin,Vitamin C,13-25,100,10.66,1643,388
+20/07/2023,2023,20,Oceania,Australia,Cardiovascular,Atorvastatin,46-65,str_331,28.46,1359,602
+2024-06-01,2024,1,Middle East,Saudi Arabia,Pain_Relief,Ibuprofen,0-12,368,8.9,792,601
+2025-10-21,2025,21,Europe,UK,Cardiovascular,Atorvastatin,46-65,365,25.29,251,387
+2021-04-09,2021,9,North America,USA,Cardiovascular,Atorvastatin,65+,str_41,22.48,594,521
+2025-01-13,2025,13,South Asia,Bangladesh,Cardiovascular,Atorvastatin,26-45,453,28.33,951,499
+21/04/2025,2025,21,Europe,UK,Chronic,Omeprazole,26-45,268,33.67,236,984
+18/08/2023,2023,18,South America,Colombia,Respiratory,Salbutamol,46-65,302,21.0,623,837
+not_a_date,2020,25,North America,Canada,Diabetes,Metformin,65+,17,12.94,726,607
+2022-12-04,2022,4,North America,USA,Pain_Relief,Ibuprofen,26-45,310,6.85,491,416
+2025-07-20,2025,20,North America,Canada,Cardiovascular,Amlodipine,46-65,219,29.7,23,890
+2021-10-07,2021,7,Middle East,UAE,Cough_Cold,Cough Syrup,0-12,str_317,9.81,1486,33
+29/06/2024,2024,29,South America,Argentina,Respiratory,Salbutamol,65+,173,23.12,1049,167
+25/10/2024,2024,25,Middle East,Saudi Arabia,Diabetes,Metformin,0-12,156,16.86,1673,269
+2023-06-19,2023,19,Middle East,Saudi Arabia,Cardiovascular,Atorvastatin,65+,497,24.74,667,668
+not_a_date,2021,30,Africa,Nigeria,Respiratory,Salbutamol,0-12,381,23.0,1414,543
+28/01/2024,2024,28,South America,Colombia,Chronic,Omeprazole,46-65,379,35.69,438,392
+not_a_date,2021,20,Europe,Italy,Cough_Cold,Cough Syrup,65+,333,9.91,620,328
+2022-11-13,2022,13,Middle East,UAE,Antibiotic,Amoxicillin,65+,15,26.67,1331,807
+not_a_date,2025,11,Oceania,New Zealand,Chronic,Omeprazole,13-25,109,43.06,1058,316
+not_a_date,2021,1,Europe,UK,Diabetes,Metformin,13-25,str_476,14.25,1156,530
+13/10/2025,2025,13,Oceania,New Zealand,Chronic,Omeprazole,0-12,271,38.29,1210,835
+not_a_date,2025,23,South Asia,Bangladesh,Vitamin,Vitamin C,0-12,84,11.02,655,466
+not_a_date,2025,26,North America,Canada,Cough_Cold,Cough Syrup,0-12,str_441,11.04,45,465
+2020-01-15,2020,15,South America,Brazil,Antibiotic,Azithromycin,26-45,str_337,26.48,24,498
+27/04/2021,2021,27,Europe,Italy,Chronic,Omeprazole,65+,str_439,34.37,205,566
+not_a_date,2021,19,Oceania,New Zealand,Antibiotic,Amoxicillin,26-45,305,34.14,274,281
+2024-11-24,2024,24,Oceania,New Zealand,Antibiotic,Amoxicillin,26-45,str_95,29.86,536,189
+not_a_date,2025,15,South America,Argentina,Vitamin,Vitamin C,0-12,str_241,8.41,1749,299
+not_a_date,2021,20,Middle East,UAE,Cough_Cold,Cough Syrup,13-25,375,14.05,232,93
+05/01/2023,2023,5,Africa,Nigeria,Respiratory,Salbutamol,26-45,393,19.22,200,928
+16/08/2021,2021,16,Oceania,New Zealand,Pain_Relief,Paracetamol,13-25,247,8.85,1700,231
+2022-05-20,2022,20,Europe,UK,Pain_Relief,Paracetamol,65+,183,9.18,841,315
+21/11/2024,2024,21,South Asia,Bangladesh,Respiratory,Salbutamol,26-45,254,22.28,726,143
+04/02/2023,2023,4,East Asia,China,Respiratory,Salbutamol,46-65,str_244,22.46,1192,323
+2023-06-06,2023,6,Middle East,UAE,Respiratory,Salbutamol,46-65,374,22.0,1735,667
+01/08/2022,2022,1,North America,Mexico,Respiratory,Salbutamol,13-25,268,20.27,1810,728
+2025-01-21,2025,21,Africa,Nigeria,Antibiotic,Azithromycin,13-25,str_36,31.02,1761,575
+21/03/2020,2020,21,Middle East,UAE,Respiratory,Salbutamol,26-45,248,16.23,990,728
+24/02/2021,2021,24,Oceania,New Zealand,Cough_Cold,Cough Syrup,0-12,362,9.64,658,863
+not_a_date,2020,16,North America,USA,Vitamin,Vitamin C,26-45,213,10.58,1072,965
+not_a_date,2021,1,Africa,Nigeria,Respiratory,Salbutamol,65+,167,17.73,249,168
+2023-02-18,2023,18,Middle East,UAE,Antibiotic,Azithromycin,26-45,str_180,35.89,245,596
+16/05/2023,2023,16,North America,USA,Pain_Relief,Paracetamol,26-45,66,9.58,396,749
+2024-04-11,2024,11,Oceania,New Zealand,Cough_Cold,Cough Syrup,26-45,375,13.95,775,527
+not_a_date,2023,20,South America,Colombia,Respiratory,Salbutamol,0-12,11,17.89,1835,158
+08/05/2020,2020,8,Europe,Italy,Vitamin,Vitamin C,0-12,293,9.6,922,48
+09/11/2025,2025,9,North America,Mexico,Cough_Cold,Cough Syrup,0-12,361,13.89,1367,689
+31/08/2022,2022,31,North America,Mexico,Vitamin,Vitamin C,0-12,382,11.1,329,791
+not_a_date,2024,14,South America,Argentina,Vitamin,Vitamin C,13-25,156,8.71,776,744
+2025-12-24,2025,24,Africa,South Africa,Cough_Cold,Cough Syrup,0-12,311,10.12,697,522
+not_a_date,2020,29,North America,Canada,Antibiotic,Azithromycin,26-45,95,30.94,1315,682
+28/05/2023,2023,28,South America,Argentina,Cough_Cold,Cough Syrup,65+,203,11.68,1307,284
+2022-04-03,2022,3,South America,Argentina,Diabetes,Metformin,46-65,133,17.35,1482,163
+22/03/2022,2022,22,North America,Canada,Vitamin,Vitamin C,46-65,172,10.14,201,290
+08/07/2022,2022,8,South Asia,Bangladesh,Pain_Relief,Ibuprofen,0-12,332,9.24,1417,957
+not_a_date,2020,20,Middle East,UAE,Pain_Relief,Paracetamol,26-45,str_143,7.3,156,733
+not_a_date,2024,11,South Asia,India,Cough_Cold,Cough Syrup,0-12,397,13.08,30,829
+08/01/2022,2022,8,Africa,South Africa,Chronic,Omeprazole,13-25,str_292,46.23,505,133
+2025-01-19,2025,19,Europe,UK,Vitamin,Vitamin C,13-25,77,11.9,984,735
+2025-01-10,2025,10,East Asia,China,Pain_Relief,Paracetamol,13-25,str_399,9.07,922,661
+not_a_date,2024,26,Africa,Nigeria,Vitamin,Vitamin C,0-12,203,11.94,1088,616
+10/05/2025,2025,10,South America,Brazil,Cardiovascular,Amlodipine,46-65,str_407,23.42,1029,884
+2023-11-29,2023,29,South Asia,India,Respiratory,Salbutamol,0-12,319,23.44,661,327
+2022-12-03,2022,3,Africa,Nigeria,Cardiovascular,Amlodipine,26-45,383,27.19,37,102
+10/01/2022,2022,10,Middle East,UAE,Cough_Cold,Cough Syrup,13-25,288,10.35,1286,250
+26/01/2025,2025,26,Middle East,Saudi Arabia,Vitamin,Vitamin C,13-25,206,9.17,1449,254
+03/11/2021,2021,3,Middle East,UAE,Cardiovascular,Atorvastatin,46-65,str_204,29.73,1660,562
+06/08/2022,2022,6,South Asia,India,Antibiotic,Amoxicillin,26-45,374,26.03,503,215
+2021-12-18,2021,18,North America,USA,Respiratory,Salbutamol,46-65,420,21.26,1574,727
+not_a_date,2021,18,Africa,Nigeria,Respiratory,Salbutamol,26-45,107,16.75,426,833
+not_a_date,2020,14,North America,Canada,Respiratory,Salbutamol,26-45,90,21.63,113,115
+29/06/2025,2025,29,South America,Argentina,Chronic,Omeprazole,65+,344,37.52,512,122
+2025-08-20,2025,20,East Asia,South Korea,Cough_Cold,Cough Syrup,0-12,123,11.36,369,519
+not_a_date,2025,23,South America,Brazil,Respiratory,Salbutamol,46-65,str_21,16.72,1328,321
+17/12/2025,2025,17,North America,USA,Cough_Cold,Cough Syrup,0-12,str_283,13.45,1557,37
+not_a_date,2021,7,Africa,Nigeria,Vitamin,Vitamin C,13-25,393,10.74,945,162
+29/06/2023,2023,29,South America,Argentina,Cough_Cold,Cough Syrup,65+,489,13.21,30,901
+2025-11-30,2025,30,Africa,South Africa,Cardiovascular,Amlodipine,26-45,210,27.66,254,152
+03/03/2020,2020,3,Europe,France,Cough_Cold,Cough Syrup,46-65,str_214,11.1,491,915
+2024-03-20,2024,20,East Asia,China,Diabetes,Metformin,46-65,str_97,12.96,752,534
+not_a_date,2024,8,Africa,Nigeria,Diabetes,Metformin,65+,382,16.84,587,845
+2024-08-13,2024,13,Oceania,New Zealand,Chronic,Omeprazole,26-45,208,35.21,334,139
+2020-03-30,2020,30,Africa,Nigeria,Respiratory,Salbutamol,65+,186,16.36,1430,91
+2024-10-05,2024,5,East Asia,South Korea,Respiratory,Salbutamol,26-45,211,20.74,1449,988
+2025-05-25,2025,25,Europe,France,Cough_Cold,Cough Syrup,13-25,str_12,11.2,1196,479
+2024-03-07,2024,7,Oceania,Australia,Vitamin,Vitamin C,0-12,144,8.36,338,262
+2025-02-09,2025,9,Middle East,UAE,Cough_Cold,Cough Syrup,13-25,str_336,11.52,37,51
+19/10/2023,2023,19,Middle East,Saudi Arabia,Pain_Relief,Ibuprofen,65+,144,9.32,895,364
+not_a_date,2022,9,Oceania,Australia,Respiratory,Salbutamol,13-25,430,18.78,1125,225
+not_a_date,2022,16,Oceania,Australia,Antibiotic,Azithromycin,26-45,63,29.24,545,334
+13/10/2022,2022,13,Europe,Italy,Cough_Cold,Cough Syrup,13-25,203,11.2,702,983
+2023-04-03,2023,3,South Asia,India,Vitamin,Vitamin C,0-12,str_33,8.27,481,707
+2022-02-07,2022,7,Middle East,Saudi Arabia,Respiratory,Salbutamol,26-45,230,16.52,1187,737
+24/05/2024,2024,24,Africa,Nigeria,Cough_Cold,Cough Syrup,13-25,327,10.41,976,391
+not_a_date,2020,27,East Asia,South Korea,Vitamin,Vitamin C,13-25,279,9.49,1257,125
+2020-06-29,2020,29,South Asia,India,Respiratory,Salbutamol,0-12,265,19.0,1064,985
+23/09/2024,2024,23,North America,Mexico,Pain_Relief,Paracetamol,13-25,393,7.47,67,758
+14/10/2023,2023,14,Oceania,Australia,Diabetes,Metformin,13-25,333,15.65,804,562
+17/02/2022,2022,17,South Asia,India,Pain_Relief,Ibuprofen,26-45,str_343,6.84,1004,754
+not_a_date,2021,1,South America,Argentina,Diabetes,Metformin,65+,str_402,17.42,385,293
+11/01/2022,2022,11,South America,Argentina,Antibiotic,Amoxicillin,26-45,str_149,30.6,1767,697
+not_a_date,2025,30,Oceania,Australia,Cardiovascular,Atorvastatin,26-45,439,20.81,1092,119
+2021-09-22,2021,22,North America,USA,Antibiotic,Azithromycin,0-12,473,29.02,841,498
+not_a_date,2021,16,Oceania,New Zealand,Respiratory,Salbutamol,13-25,348,23.78,926,276
+2024-10-14,2024,14,Africa,Nigeria,Vitamin,Vitamin C,13-25,330,10.72,649,849
+not_a_date,2020,16,East Asia,South Korea,Diabetes,Metformin,65+,497,15.54,19,59
+not_a_date,2024,3,Oceania,Australia,Cough_Cold,Cough Syrup,13-25,str_277,10.53,533,116
+not_a_date,2022,8,South Asia,Bangladesh,Respiratory,Salbutamol,46-65,323,21.84,31,435
+26/08/2020,2020,26,Europe,France,Cardiovascular,Amlodipine,13-25,461,24.22,670,308
+23/06/2021,2021,23,Oceania,Australia,Antibiotic,Amoxicillin,13-25,465,28.83,45,858
+07/07/2022,2022,7,Africa,South Africa,Antibiotic,Azithromycin,65+,200,27.17,1473,111
+26/02/2022,2022,26,South Asia,India,Cardiovascular,Amlodipine,65+,261,27.97,700,437
+not_a_date,2020,27,South America,Argentina,Respiratory,Salbutamol,13-25,94,23.57,1324,577
+15/09/2020,2020,15,South Asia,Bangladesh,Cough_Cold,Cough Syrup,0-12,47,12.16,1862,70
+not_a_date,2024,5,Africa,Nigeria,Diabetes,Metformin,46-65,169,13.1,713,470
+15/09/2025,2025,15,East Asia,South Korea,Chronic,Omeprazole,26-45,490,47.27,32,193
+16/01/2025,2025,16,Oceania,New Zealand,Chronic,Omeprazole,46-65,184,41.08,396,87
+not_a_date,2020,11,East Asia,Japan,Diabetes,Metformin,65+,448,16.19,30,777
+27/06/2024,2024,27,Middle East,Saudi Arabia,Vitamin,Vitamin C,13-25,41,9.11,1368,977
+10/04/2021,2021,10,South America,Colombia,Vitamin,Vitamin C,13-25,448,10.52,29,785
+2023-12-27,2023,27,Europe,France,Antibiotic,Azithromycin,0-12,69,33.28,888,435
+not_a_date,2025,1,South America,Colombia,Diabetes,Metformin,65+,318,12.91,32,500
+2020-10-07,2020,7,South America,Brazil,Chronic,Omeprazole,65+,str_43,47.26,1640,806
+not_a_date,2025,19,Oceania,New Zealand,Diabetes,Metformin,65+,96,16.43,998,383
+not_a_date,2022,4,Europe,France,Vitamin,Vitamin C,46-65,103,11.78,596,84
+not_a_date,2024,21,Middle East,UAE,Chronic,Omeprazole,65+,str_13,45.69,1355,694
+28/12/2021,2021,28,Europe,UK,Cough_Cold,Cough Syrup,0-12,451,10.26,173,230
+2023-07-06,2023,6,North America,Mexico,Respiratory,Salbutamol,26-45,354,17.56,724,792
+30/04/2025,2025,30,Africa,South Africa,Diabetes,Metformin,13-25,163,15.03,797,350
+20/01/2020,2020,20,Europe,Germany,Cough_Cold,Cough Syrup,46-65,str_193,11.34,557,366
+not_a_date,2025,3,Europe,France,Cough_Cold,Cough Syrup,13-25,130,10.61,1645,216
+2025-02-07,2025,7,Middle East,Saudi Arabia,Cough_Cold,Cough Syrup,13-25,419,12.3,1434,199
+2022-02-12,2022,12,North America,USA,Antibiotic,Azithromycin,13-25,391,35.35,1118,427
+12/02/2023,2023,12,Europe,France,Cough_Cold,Cough Syrup,65+,390,10.46,1145,510
+not_a_date,2025,23,Europe,UK,Chronic,Omeprazole,46-65,str_277,43.52,1168,56
+2020-09-20,2020,20,South America,Brazil,Vitamin,Vitamin C,0-12,459,10.16,43,881
+not_a_date,2023,26,Europe,UK,Chronic,Omeprazole,65+,317,44.18,951,512
+2022-10-01,2022,1,Africa,South Africa,Vitamin,Vitamin C,26-45,289,11.12,796,654
+2025-01-08,2025,8,East Asia,South Korea,Respiratory,Salbutamol,13-25,189,17.52,966,898
+19/11/2020,2020,19,Africa,South Africa,Antibiotic,Azithromycin,26-45,433,25.54,75,890
+not_a_date,2022,23,East Asia,South Korea,Antibiotic,Azithromycin,26-45,str_398,26.39,1237,360
+2022-01-26,2022,26,Africa,Nigeria,Pain_Relief,Ibuprofen,26-45,279,8.75,1367,181
+22/02/2020,2020,22,Africa,Nigeria,Cough_Cold,Cough Syrup,0-12,463,12.41,1316,608
+not_a_date,2020,25,South America,Argentina,Vitamin,Vitamin C,65+,262,10.92,17,43
+2023-04-04,2023,4,North America,USA,Chronic,Omeprazole,46-65,209,47.75,1640,969
+28/08/2023,2023,28,Middle East,UAE,Diabetes,Metformin,46-65,496,17.25,42,849
+2023-01-27,2023,27,Middle East,Saudi Arabia,Pain_Relief,Paracetamol,26-45,397,7.77,1154,64
+2024-11-05,2024,5,North America,USA,Antibiotic,Azithromycin,26-45,284,28.36,180,767
+not_a_date,2024,10,Middle East,Saudi Arabia,Antibiotic,Azithromycin,46-65,254,30.65,1526,697
+13/04/2020,2020,13,East Asia,South Korea,Antibiotic,Azithromycin,65+,90,28.39,657,95
+22/11/2023,2023,22,South Asia,Bangladesh,Cough_Cold,Cough Syrup,0-12,196,13.61,1738,493
+not_a_date,2024,5,North America,Mexico,Diabetes,Metformin,65+,str_375,17.85,653,545
+27/11/2024,2024,27,East Asia,Japan,Chronic,Omeprazole,65+,405,45.2,1458,819
+not_a_date,2023,6,South America,Argentina,Cough_Cold,Cough Syrup,0-12,456,14.18,1102,980
+14/11/2023,2023,14,Oceania,New Zealand,Cardiovascular,Atorvastatin,13-25,457,22.57,339,846
+2025-07-12,2025,12,South America,Argentina,Diabetes,Metformin,46-65,str_307,16.69,24,511
+08/07/2023,2023,8,North America,USA,Cough_Cold,Cough Syrup,26-45,336,10.08,552,764
+18/02/2025,2025,18,North America,USA,Chronic,Omeprazole,46-65,446,45.63,598,679
+not_a_date,2022,2,Oceania,Australia,Chronic,Omeprazole,65+,str_271,42.93,795,743
+not_a_date,2021,1,North America,Mexico,Chronic,Omeprazole,46-65,162,35.97,921,499
+not_a_date,2022,17,North America,USA,Antibiotic,Amoxicillin,46-65,278,33.27,928,463
+26/09/2024,2024,26,Oceania,New Zealand,Antibiotic,Amoxicillin,46-65,420,27.34,928,305
+not_a_date,2021,16,Middle East,Saudi Arabia,Cardiovascular,Amlodipine,46-65,221,20.93,29,681
+19/05/2024,2024,19,Middle East,Saudi Arabia,Respiratory,Salbutamol,46-65,str_385,17.69,1265,834
+2022-07-02,2022,2,East Asia,China,Antibiotic,Azithromycin,13-25,67,35.73,652,870
+07/11/2025,2025,7,Middle East,UAE,Cardiovascular,Amlodipine,46-65,197,24.65,489,168
+25/11/2020,2020,25,Middle East,Saudi Arabia,Respiratory,Salbutamol,0-12,331,23.91,115,831
+29/07/2022,2022,29,North America,Canada,Respiratory,Salbutamol,26-45,261,19.43,1325,142
+2023-08-25,2023,25,East Asia,South Korea,Cough_Cold,Cough Syrup,13-25,16,12.93,365,281
+not_a_date,2021,30,Europe,Germany,Cough_Cold,Cough Syrup,26-45,41,13.67,1590,198
+2020-05-25,2020,25,East Asia,South Korea,Antibiotic,Azithromycin,13-25,433,31.92,1403,487
+26/11/2022,2022,26,Europe,Italy,Vitamin,Vitamin C,26-45,266,11.3,1621,361
+not_a_date,2020,26,Oceania,Australia,Diabetes,Metformin,13-25,125,14.98,1325,519
+21/01/2024,2024,21,Oceania,New Zealand,Cough_Cold,Cough Syrup,13-25,477,10.85,648,534
+not_a_date,2020,9,Europe,Italy,Vitamin,Vitamin C,0-12,397,9.34,841,117
+01/04/2020,2020,1,Africa,South Africa,Cough_Cold,Cough Syrup,0-12,143,11.24,1775,929
+2023-10-22,2023,22,Europe,Germany,Cardiovascular,Atorvastatin,65+,193,22.22,1829,624
+2025-09-23,2025,23,South Asia,India,Antibiotic,Amoxicillin,65+,476,33.87,946,762
+not_a_date,2021,30,Middle East,Saudi Arabia,Antibiotic,Amoxicillin,0-12,90,32.13,144,391
+21/08/2022,2022,21,East Asia,Japan,Pain_Relief,Paracetamol,46-65,str_396,8.29,27,461
+2023-09-23,2023,23,East Asia,Japan,Vitamin,Vitamin C,0-12,318,11.88,628,524
+2024-08-02,2024,2,East Asia,South Korea,Diabetes,Metformin,46-65,38,13.49,775,480
+22/02/2021,2021,22,Africa,South Africa,Vitamin,Vitamin C,13-25,168,10.04,1165,569
+24/01/2024,2024,24,South Asia,Bangladesh,Vitamin,Vitamin C,13-25,277,9.48,1818,888
+02/12/2023,2023,2,Middle East,UAE,Antibiotic,Azithromycin,0-12,15,31.34,315,417
+2021-02-04,2021,4,Middle East,UAE,Respiratory,Salbutamol,26-45,97,18.02,1737,918
+not_a_date,2022,10,North America,USA,Respiratory,Salbutamol,65+,347,23.88,1501,52
+31/10/2023,2023,31,Oceania,New Zealand,Cardiovascular,Atorvastatin,65+,315,24.7,1220,512
+not_a_date,2025,17,Middle East,UAE,Cardiovascular,Atorvastatin,0-12,474,29.57,36,69
+not_a_date,2024,18,Middle East,Saudi Arabia,Cardiovascular,Atorvastatin,13-25,67,28.28,1363,838
+2025-11-29,2025,29,North America,Canada,Vitamin,Vitamin C,26-45,111,11.1,1115,549
+27/02/2022,2022,27,Middle East,UAE,Antibiotic,Azithromycin,13-25,318,27.95,1556,875
+2023-06-27,2023,27,Europe,Italy,Cough_Cold,Cough Syrup,46-65,319,13.55,11,836
+2022-07-29,2022,29,South Asia,Bangladesh,Antibiotic,Azithromycin,13-25,348,24.39,571,988
+11/09/2025,2025,11,South America,Argentina,Vitamin,Vitamin C,13-25,297,11.24,928,514
+2022-07-06,2022,6,East Asia,China,Cardiovascular,Atorvastatin,46-65,158,22.44,823,285
+not_a_date,2020,8,Africa,Nigeria,Diabetes,Metformin,26-45,str_87,16.66,1517,459
+not_a_date,2021,21,South America,Colombia,Cardiovascular,Atorvastatin,26-45,400,22.99,1416,246
+not_a_date,2023,31,Europe,UK,Chronic,Omeprazole,26-45,247,46.84,798,372
+14/04/2024,2024,14,South Asia,Bangladesh,Cardiovascular,Atorvastatin,13-25,178,29.1,834,241
+26/02/2021,2021,26,Europe,UK,Cardiovascular,Atorvastatin,65+,341,26.93,1419,80
+23/07/2020,2020,23,East Asia,China,Antibiotic,Azithromycin,26-45,375,35.44,414,780
+not_a_date,2022,15,South Asia,Bangladesh,Vitamin,Vitamin C,46-65,411,8.71,28,503
+not_a_date,2021,25,South Asia,Bangladesh,Chronic,Omeprazole,26-45,175,45.25,27,563
+16/03/2021,2021,16,Africa,South Africa,Pain_Relief,Paracetamol,26-45,438,9.18,734,154
+not_a_date,2023,29,Oceania,Australia,Antibiotic,Amoxicillin,26-45,470,27.68,32,442
+2021-08-01,2021,1,Europe,Italy,Cough_Cold,Cough Syrup,26-45,str_360,9.72,174,411
+not_a_date,2023,25,East Asia,South Korea,Cough_Cold,Cough Syrup,65+,466,11.46,22,109
+not_a_date,2020,15,South Asia,Bangladesh,Diabetes,Metformin,65+,str_442,14.82,878,35
+19/03/2021,2021,19,Europe,Germany,Vitamin,Vitamin C,46-65,482,10.72,1035,180
+2025-03-28,2025,28,Africa,Nigeria,Pain_Relief,Ibuprofen,13-25,399,6.79,746,384
+2022-08-02,2022,2,Middle East,UAE,Pain_Relief,Paracetamol,46-65,str_34,7.27,1304,907
+25/10/2021,2021,25,North America,Canada,Cardiovascular,Atorvastatin,26-45,54,22.0,1280,187
+01/02/2020,2020,1,Oceania,New Zealand,Diabetes,Metformin,46-65,408,12.15,196,549
+not_a_date,2021,18,South America,Argentina,Cough_Cold,Cough Syrup,13-25,228,11.02,13,342
+not_a_date,2021,28,Middle East,Saudi Arabia,Chronic,Omeprazole,65+,166,33.83,873,294
+28/12/2024,2024,28,South Asia,Bangladesh,Cardiovascular,Amlodipine,0-12,171,29.93,684,857
+not_a_date,2023,7,East Asia,Japan,Pain_Relief,Ibuprofen,13-25,392,7.1,1627,987
+2023-10-07,2023,7,Europe,France,Diabetes,Metformin,65+,413,17.55,10,832
+2021-12-21,2021,21,Africa,Nigeria,Vitamin,Vitamin C,0-12,147,10.69,1640,354
+not_a_date,2024,8,East Asia,Japan,Antibiotic,Amoxicillin,0-12,482,29.73,276,753
+05/03/2022,2022,5,East Asia,Japan,Vitamin,Vitamin C,26-45,71,8.23,959,908
+not_a_date,2020,15,South America,Brazil,Vitamin,Vitamin C,65+,452,11.27,462,908
+not_a_date,2023,9,North America,Canada,Vitamin,Vitamin C,13-25,294,10.0,1432,41
+2020-09-04,2020,4,Africa,Nigeria,Diabetes,Metformin,26-45,378,14.16,1562,250
+not_a_date,2020,10,Europe,UK,Chronic,Omeprazole,0-12,411,33.83,260,873
+2022-04-07,2022,7,North America,Mexico,Antibiotic,Azithromycin,65+,str_403,35.09,37,333
+11/02/2021,2021,11,Middle East,UAE,Cough_Cold,Cough Syrup,13-25,212,13.51,1137,252
+27/02/2025,2025,27,South America,Argentina,Vitamin,Vitamin C,13-25,397,10.52,1020,578
+2022-05-28,2022,28,Europe,Italy,Diabetes,Metformin,46-65,487,12.6,336,372
+10/08/2023,2023,10,Europe,Italy,Vitamin,Vitamin C,26-45,292,9.31,943,343
+not_a_date,2024,3,Oceania,New Zealand,Chronic,Omeprazole,65+,str_317,43.55,496,35
+2022-03-12,2022,12,Europe,Germany,Vitamin,Vitamin C,26-45,430,9.2,390,659
+2022-02-27,2022,27,Middle East,UAE,Diabetes,Metformin,65+,117,15.76,1340,248
+not_a_date,2024,9,East Asia,China,Vitamin,Vitamin C,13-25,265,11.49,21,675
+not_a_date,2020,28,Europe,Germany,Diabetes,Metformin,0-12,214,16.49,650,507
+not_a_date,2022,28,Africa,Nigeria,Chronic,Omeprazole,65+,193,41.96,1701,583
+2023-06-01,2023,1,South Asia,Bangladesh,Antibiotic,Azithromycin,13-25,str_494,25.79,225,644
+12/09/2023,2023,12,Europe,Italy,Chronic,Omeprazole,13-25,str_361,33.39,28,569
+23/06/2024,2024,23,Oceania,Australia,Cough_Cold,Cough Syrup,0-12,str_181,9.75,1463,430
+2020-04-28,2020,28,Middle East,Saudi Arabia,Vitamin,Vitamin C,65+,14,10.47,1818,778
+2023-04-23,2023,23,South Asia,Bangladesh,Diabetes,Metformin,65+,361,14.04,26,585
+23/11/2021,2021,23,Middle East,UAE,Respiratory,Salbutamol,13-25,49,21.48,1844,426
+2023-10-10,2023,10,South Asia,India,Chronic,Omeprazole,65+,str_208,36.62,1366,802
+not_a_date,2022,28,South Asia,India,Cardiovascular,Atorvastatin,46-65,436,29.81,150,399
+2024-09-05,2024,5,Africa,Nigeria,Cardiovascular,Atorvastatin,46-65,191,21.85,785,267
+2021-12-20,2021,20,South Asia,India,Cough_Cold,Cough Syrup,26-45,55,9.93,327,956
+2022-07-20,2022,20,Oceania,New Zealand,Antibiotic,Amoxicillin,65+,148,31.34,738,588
+30/01/2021,2021,30,Africa,South Africa,Antibiotic,Azithromycin,26-45,425,30.28,753,311
+not_a_date,2024,8,Europe,Germany,Cough_Cold,Cough Syrup,26-45,29,12.94,1110,337
+2021-11-09,2021,9,North America,USA,Antibiotic,Azithromycin,13-25,str_123,27.74,1698,38
+06/10/2024,2024,6,Oceania,New Zealand,Diabetes,Metformin,46-65,str_181,13.7,47,983
+2025-02-16,2025,16,South Asia,India,Vitamin,Vitamin C,0-12,226,8.96,1724,585
+not_a_date,2022,25,Oceania,New Zealand,Diabetes,Metformin,46-65,208,15.3,1331,439
+2025-12-22,2025,22,Middle East,Saudi Arabia,Respiratory,Salbutamol,46-65,161,18.08,935,716
+2023-08-29,2023,29,North America,Mexico,Pain_Relief,Ibuprofen,0-12,309,8.03,1082,308
+24/12/2023,2023,24,Africa,Nigeria,Cardiovascular,Amlodipine,46-65,str_14,20.51,974,181
+31/05/2022,2022,31,Europe,UK,Antibiotic,Amoxicillin,26-45,140,24.89,510,955
+2022-04-17,2022,17,Europe,UK,Cardiovascular,Atorvastatin,26-45,str_77,20.85,1335,180
+2025-09-08,2025,8,East Asia,Japan,Cough_Cold,Cough Syrup,13-25,235,10.82,246,594
+05/12/2021,2021,5,Oceania,New Zealand,Cardiovascular,Amlodipine,46-65,str_139,21.74,1093,301
+2020-12-04,2020,4,Oceania,New Zealand,Diabetes,Metformin,26-45,447,17.91,62,636
+not_a_date,2021,5,Middle East,UAE,Vitamin,Vitamin C,26-45,392,9.84,438,659
+10/07/2021,2021,10,Oceania,Australia,Vitamin,Vitamin C,0-12,298,8.52,47,533
+14/07/2023,2023,14,South America,Brazil,Cough_Cold,Cough Syrup,13-25,351,14.22,746,51
+not_a_date,2023,19,South Asia,India,Cough_Cold,Cough Syrup,0-12,317,9.8,26,595
+not_a_date,2022,6,East Asia,Japan,Cough_Cold,Cough Syrup,0-12,293,12.24,41,285
+not_a_date,2020,25,South Asia,India,Diabetes,Metformin,65+,str_121,16.02,1242,121
+2020-08-12,2020,12,North America,USA,Antibiotic,Azithromycin,65+,79,26.04,1366,526
+2020-01-03,2020,3,East Asia,South Korea,Antibiotic,Azithromycin,0-12,34,31.65,608,700
+not_a_date,2021,19,North America,USA,Vitamin,Vitamin C,13-25,225,11.86,685,395
+not_a_date,2023,25,Africa,Nigeria,Chronic,Omeprazole,46-65,403,32.87,1036,301
+not_a_date,2022,9,South America,Colombia,Pain_Relief,Paracetamol,13-25,340,8.24,562,475
+2021-07-04,2021,4,Africa,Nigeria,Diabetes,Metformin,13-25,213,16.23,1538,940
+23/10/2021,2021,23,Africa,Nigeria,Antibiotic,Azithromycin,26-45,58,27.37,1862,193
+15/03/2023,2023,15,Oceania,Australia,Cough_Cold,Cough Syrup,0-12,375,10.43,450,859
+10/09/2023,2023,10,East Asia,China,Cardiovascular,Atorvastatin,13-25,361,29.79,45,85
+not_a_date,2025,7,South Asia,Bangladesh,Cough_Cold,Cough Syrup,0-12,415,9.95,732,949
+2023-11-29,2023,29,East Asia,China,Cardiovascular,Amlodipine,13-25,350,27.53,502,737
+not_a_date,2020,20,Middle East,Saudi Arabia,Cough_Cold,Cough Syrup,26-45,str_256,12.82,586,70
+not_a_date,2021,25,East Asia,South Korea,Respiratory,Salbutamol,65+,434,20.85,463,622
+not_a_date,2022,30,Europe,Germany,Chronic,Omeprazole,65+,348,37.85,1067,886
+2024-09-15,2024,15,Oceania,New Zealand,Cough_Cold,Cough Syrup,26-45,416,12.12,46,559
+not_a_date,2025,17,Oceania,Australia,Cough_Cold,Cough Syrup,13-25,261,10.59,599,969
+2025-02-24,2025,24,South America,Argentina,Vitamin,Vitamin C,13-25,257,10.95,820,887
+29/12/2024,2024,29,South Asia,Bangladesh,Diabetes,Metformin,65+,str_112,15.79,396,526
+2025-06-06,2025,6,South America,Argentina,Chronic,Omeprazole,46-65,220,34.37,1695,175
+not_a_date,2020,7,South America,Colombia,Antibiotic,Azithromycin,46-65,184,33.39,573,306
+05/02/2023,2023,5,East Asia,Japan,Vitamin,Vitamin C,0-12,163,8.11,647,617
+2024-05-21,2024,21,South Asia,India,Chronic,Omeprazole,13-25,118,42.51,979,137
+18/06/2024,2024,18,South America,Argentina,Cough_Cold,Cough Syrup,46-65,99,12.68,1564,605
+21/05/2020,2020,21,Oceania,New Zealand,Respiratory,Salbutamol,46-65,str_96,16.78,1834,579
+2021-08-27,2021,27,South Asia,India,Chronic,Omeprazole,46-65,480,32.28,1391,644
+15/01/2020,2020,15,North America,USA,Respiratory,Salbutamol,26-45,str_364,21.24,1518,229
+not_a_date,2020,29,South Asia,India,Respiratory,Salbutamol,13-25,178,17.71,1571,845
+not_a_date,2024,17,South Asia,India,Chronic,Omeprazole,46-65,412,44.26,522,991
+not_a_date,2024,10,South Asia,India,Vitamin,Vitamin C,26-45,327,11.52,33,990
+2021-05-21,2021,21,Europe,France,Respiratory,Salbutamol,26-45,309,19.67,997,164
+29/04/2024,2024,29,Middle East,UAE,Vitamin,Vitamin C,13-25,50,9.46,1230,132
+2023-04-29,2023,29,Oceania,Australia,Cough_Cold,Cough Syrup,26-45,480,14.04,248,490
+2021-06-26,2021,26,Africa,South Africa,Antibiotic,Azithromycin,26-45,472,27.24,898,442
+2021-05-25,2021,25,South Asia,Bangladesh,Cardiovascular,Amlodipine,46-65,70,20.76,214,629
+not_a_date,2024,15,Oceania,Australia,Antibiotic,Azithromycin,65+,293,29.81,1689,679
+2022-09-28,2022,28,Africa,Nigeria,Diabetes,Metformin,26-45,237,14.25,1563,498
+2020-08-16,2020,16,Europe,Italy,Respiratory,Salbutamol,65+,112,16.22,653,661
+11/06/2025,2025,11,North America,Canada,Vitamin,Vitamin C,13-25,str_289,8.76,1672,276
+2021-04-13,2021,13,North America,USA,Respiratory,Salbutamol,0-12,209,17.35,842,235
+29/10/2020,2020,29,South Asia,Bangladesh,Vitamin,Vitamin C,65+,str_127,8.21,805,123
+not_a_date,2024,12,South America,Brazil,Cardiovascular,Atorvastatin,26-45,str_208,20.58,724,749
+not_a_date,2023,6,North America,USA,Chronic,Omeprazole,65+,182,38.03,1441,506
+2023-07-14,2023,14,Middle East,Saudi Arabia,Cough_Cold,Cough Syrup,0-12,str_452,10.91,1015,578
+not_a_date,2023,14,Europe,France,Chronic,Omeprazole,65+,12,45.64,185,67
+14/09/2024,2024,14,Africa,Nigeria,Pain_Relief,Paracetamol,46-65,402,7.17,20,222
+not_a_date,2021,12,South Asia,Bangladesh,Pain_Relief,Paracetamol,0-12,292,6.83,726,794
+2024-10-16,2024,16,South Asia,India,Cardiovascular,Amlodipine,46-65,131,26.41,630,835
+2024-08-28,2024,28,Middle East,Saudi Arabia,Cough_Cold,Cough Syrup,26-45,str_179,11.93,629,294
+24/09/2020,2020,24,Oceania,Australia,Respiratory,Salbutamol,13-25,str_234,20.9,20,306
+not_a_date,2025,20,Oceania,Australia,Vitamin,Vitamin C,13-25,70,9.06,1716,245
+2021-04-08,2021,8,East Asia,Japan,Chronic,Omeprazole,13-25,232,33.03,286,357
+2022-11-09,2022,9,North America,USA,Chronic,Omeprazole,46-65,500,33.33,414,361
+17/12/2023,2023,17,Africa,South Africa,Cough_Cold,Cough Syrup,0-12,332,9.87,766,828
+not_a_date,2022,14,Middle East,Saudi Arabia,Cough_Cold,Cough Syrup,13-25,str_62,12.91,1171,266
+2024-11-06,2024,6,Africa,South Africa,Chronic,Omeprazole,46-65,385,45.48,124,685
+14/06/2022,2022,14,North America,USA,Diabetes,Metformin,13-25,211,14.66,68,876
+01/07/2022,2022,1,Middle East,UAE,Cardiovascular,Amlodipine,65+,218,21.9,110,788
+14/10/2020,2020,14,South Asia,Bangladesh,Vitamin,Vitamin C,13-25,254,11.98,1456,804
+2023-09-16,2023,16,East Asia,Japan,Vitamin,Vitamin C,13-25,str_45,11.03,548,148
+15/02/2020,2020,15,North America,Canada,Cardiovascular,Atorvastatin,46-65,str_233,27.74,1626,863
+2025-12-15,2025,15,South Asia,India,Vitamin,Vitamin C,0-12,str_404,8.4,177,593
+not_a_date,2021,20,Africa,Nigeria,Cough_Cold,Cough Syrup,13-25,356,11.06,204,423
+2023-02-02,2023,2,Middle East,Saudi Arabia,Antibiotic,Azithromycin,26-45,str_493,31.07,20,785
+28/02/2023,2023,28,Africa,South Africa,Diabetes,Metformin,46-65,123,16.88,102,876
+2025-11-04,2025,4,South America,Brazil,Vitamin,Vitamin C,13-25,498,8.09,1180,423
+12/06/2023,2023,12,East Asia,South Korea,Respiratory,Salbutamol,0-12,384,17.13,1003,788
+not_a_date,2025,30,Europe,Italy,Cough_Cold,Cough Syrup,65+,119,13.97,1777,144
+2025-02-06,2025,6,Middle East,UAE,Pain_Relief,Paracetamol,26-45,28,9.09,1658,852
+11/04/2023,2023,11,North America,Mexico,Diabetes,Metformin,46-65,str_115,17.12,1693,422
+20/03/2022,2022,20,South Asia,Bangladesh,Diabetes,Metformin,65+,432,17.77,767,115
+23/02/2024,2024,23,East Asia,China,Diabetes,Metformin,46-65,301,13.73,1072,241
+17/03/2025,2025,17,East Asia,South Korea,Cardiovascular,Atorvastatin,46-65,484,20.61,1195,352
+2020-03-04,2020,4,South America,Brazil,Diabetes,Metformin,26-45,341,15.65,1397,238
+not_a_date,2020,28,Oceania,Australia,Respiratory,Salbutamol,13-25,478,18.82,427,266
+2020-03-29,2020,29,Middle East,UAE,Vitamin,Vitamin C,46-65,256,9.36,566,90
+01/05/2020,2020,1,Europe,UK,Vitamin,Vitamin C,46-65,21,11.98,1608,599
+not_a_date,2024,1,Europe,Germany,Diabetes,Metformin,0-12,362,15.53,789,226
+not_a_date,2021,30,Oceania,Australia,Pain_Relief,Paracetamol,13-25,345,9.13,1504,118
+not_a_date,2025,29,South Asia,India,Diabetes,Metformin,46-65,75,13.6,1895,367
+2020-12-04,2020,4,Middle East,UAE,Antibiotic,Amoxicillin,26-45,434,24.24,35,218
+not_a_date,2022,28,Africa,Nigeria,Cough_Cold,Cough Syrup,13-25,str_446,10.78,1237,88
+not_a_date,2025,30,Middle East,UAE,Chronic,Omeprazole,65+,484,45.15,1340,257
+not_a_date,2023,12,East Asia,Japan,Pain_Relief,Ibuprofen,0-12,72,8.61,628,877
+not_a_date,2020,27,South Asia,India,Vitamin,Vitamin C,13-25,str_210,9.26,323,931
+not_a_date,2020,6,Oceania,Australia,Diabetes,Metformin,13-25,37,12.61,1002,370
+2022-03-14,2022,14,Oceania,Australia,Antibiotic,Azithromycin,26-45,str_256,32.89,562,76
+27/01/2021,2021,27,East Asia,South Korea,Cardiovascular,Atorvastatin,65+,130,27.41,51,962
+2022-02-21,2022,21,South Asia,India,Antibiotic,Azithromycin,26-45,str_305,31.8,337,903
+2024-11-04,2024,4,East Asia,China,Antibiotic,Azithromycin,13-25,str_183,34.02,1769,48
+not_a_date,2020,21,Europe,UK,Cardiovascular,Amlodipine,65+,469,20.07,70,555
+2022-11-23,2022,23,East Asia,Japan,Respiratory,Salbutamol,13-25,str_477,22.15,397,484
+not_a_date,2020,21,Africa,Nigeria,Chronic,Omeprazole,65+,str_407,47.66,531,460
+27/05/2020,2020,27,Europe,UK,Vitamin,Vitamin C,65+,147,11.04,264,35
+not_a_date,2020,21,South America,Argentina,Antibiotic,Amoxicillin,26-45,452,34.65,1141,145
+not_a_date,2025,5,Africa,South Africa,Vitamin,Vitamin C,13-25,156,11.35,632,348
+03/02/2024,2024,3,Africa,South Africa,Chronic,Omeprazole,65+,str_340,40.08,80,746
+not_a_date,2025,7,East Asia,South Korea,Chronic,Omeprazole,65+,387,38.45,86,687
+not_a_date,2022,22,South America,Argentina,Antibiotic,Amoxicillin,0-12,435,32.43,848,768
+28/06/2023,2023,28,South America,Brazil,Cough_Cold,Cough Syrup,0-12,429,10.54,1176,538
+2022-10-24,2022,24,Africa,South Africa,Chronic,Omeprazole,46-65,457,32.92,1016,485
+2024-07-12,2024,12,Middle East,UAE,Diabetes,Metformin,46-65,27,12.51,682,626
+not_a_date,2020,7,Oceania,New Zealand,Cough_Cold,Cough Syrup,0-12,243,12.0,134,179
+2024-04-04,2024,4,South Asia,India,Vitamin,Vitamin C,0-12,121,9.51,1254,566

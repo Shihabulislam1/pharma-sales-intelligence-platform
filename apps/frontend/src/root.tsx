@@ -1,28 +1,8 @@
 import { Links, Meta, Outlet, Scripts, ScrollRestoration } from "react-router";
 import { Provider } from "react-redux";
-import { ThemeProvider, createTheme, StyledEngineProvider } from "@mui/material/styles";
-import CssBaseline from "@mui/material/CssBaseline";
-import { store } from "./app/store";
-
-// Create a premium Material UI Theme
-const theme = createTheme({
-  palette: {
-    mode: "dark",
-    primary: {
-      main: "#4f46e5", // Indigo
-    },
-    secondary: {
-      main: "#06b6d4", // Cyan
-    },
-    background: {
-      default: "#09090b", // Zinc 950
-      paper: "#18181b", // Zinc 900
-    },
-  },
-  typography: {
-    fontFamily: '"Outfit", "Inter", "Roboto", "sans-serif"',
-  },
-});
+import { StyledEngineProvider } from "@mui/material/styles";
+import { store } from "./store";
+import { ThemeWrapper } from "./components/ThemeWrapper";
 
 export function Layout({ children }: { children: React.ReactNode }) {
   return (
@@ -42,10 +22,9 @@ export function Layout({ children }: { children: React.ReactNode }) {
       <body>
         <StyledEngineProvider enableCssLayer>
           <Provider store={store}>
-            <ThemeProvider theme={theme}>
-              <CssBaseline />
+            <ThemeWrapper>
               {children}
-            </ThemeProvider>
+            </ThemeWrapper>
           </Provider>
         </StyledEngineProvider>
         <ScrollRestoration />
