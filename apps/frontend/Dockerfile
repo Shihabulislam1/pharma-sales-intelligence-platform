@@ -10,9 +10,9 @@ RUN npm ci
 COPY . .
 
 # Build the frontend application
-# React Router's vite plugin keeps Node alive after build; timeout kills it, then we verify output
-RUN timeout 60 npx vite build --config apps/frontend/vite.config.mts; \
-    test -d apps/frontend/build/client && echo "Frontend build completed successfully"
+# We use react-router build because it generates the index.html for SPA mode
+RUN cd apps/frontend && timeout 60 npx react-router build || true; \
+    test -f /app/apps/frontend/build/client/index.html && echo "Frontend build generated index.html successfully"
 
 # Stage 2: Serve with Nginx
 FROM nginx:alpine
