@@ -17,7 +17,11 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path, include
 
+from django.http import HttpResponse
+
 urlpatterns = [
+    path('', lambda request: HttpResponse("OK")),
+    path('health/', lambda request: HttpResponse("OK")),
     path('admin/', admin.site.urls),
     path('api/uploads/', include('etl.urls')),
     path('api/etl/', include('etl.urls_etl')),

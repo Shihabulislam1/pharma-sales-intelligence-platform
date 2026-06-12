@@ -132,12 +132,15 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/6.0/howto/static-files/
 
 STATIC_URL = 'static/'
+STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 
 CLOUDINARY_STORAGE = {
     'CLOUD_NAME': os.environ.get('CLOUDINARY_CLOUD_NAME', ''),
     'API_KEY': os.environ.get('CLOUDINARY_API_KEY', ''),
     'API_SECRET': os.environ.get('CLOUDINARY_API_SECRET', ''),
 }
+
+STATICFILES_STORAGE = 'django.contrib.staticfiles.storage.StaticFilesStorage'
 
 STORAGES = {
     'default': {
