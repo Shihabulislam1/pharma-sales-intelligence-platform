@@ -19,7 +19,7 @@ FROM nginx:alpine
 RUN rm -rf /usr/share/nginx/html/*
 
 # Copy built assets from builder stage
-COPY --from=builder /app/dist/apps/frontend /usr/share/nginx/html
+COPY --from=builder /app/apps/frontend/build/client /usr/share/nginx/html
 
 # Copy a custom nginx configuration to handle React Router (SPA) and proxy /api
 COPY apps/frontend/nginx.conf /etc/nginx/conf.d/default.conf
