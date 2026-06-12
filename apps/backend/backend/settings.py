@@ -20,12 +20,12 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/6.0/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-_2nxh558sjidk67te&^%&ex#*o3=6&szf5(0@9v)5cokhjvcvw'
+SECRET_KEY = os.environ.get('DJANGO_SECRET_KEY', 'django-insecure-_2nxh558sjidk67te&^%&ex#*o3=6&szf5(0@9v)5cokhjvcvw')
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = os.environ.get('DJANGO_DEBUG', 'True') == 'True'
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = os.environ.get('DJANGO_ALLOWED_HOSTS', 'localhost,127.0.0.1,djangoapi.mdshihabulislam.dev,pharma.mdshihabulislam.dev').split(',')
 
 
 # Application definition
@@ -76,14 +76,11 @@ TEMPLATES = [
 
 WSGI_APPLICATION = 'backend.wsgi.application'
 
-# Configure Allowed Hosts
-ALLOWED_HOSTS = ['localhost', '127.0.0.1']
+# Configure Allowed Hosts (Overridden by DJANGO_ALLOWED_HOSTS above, keeping this for reference)
+# ALLOWED_HOSTS = ['localhost', '127.0.0.1']
 
-# Configure CORS for local development
-CORS_ALLOWED_ORIGINS = [
-    "http://localhost:4200",
-    "http://127.0.0.1:4200",
-]
+# Configure CORS
+CORS_ALLOWED_ORIGINS = os.environ.get('CORS_ALLOWED_ORIGINS', "http://localhost:4200,http://127.0.0.1:4200,https://pharma.mdshihabulislam.dev").split(',')
 
 # Database
 # https://docs.djangoproject.com/en/6.0/ref/settings/#databases
@@ -91,11 +88,11 @@ CORS_ALLOWED_ORIGINS = [
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'pharma_sales_dev',
-        'USER': 'postgres',
-        'PASSWORD': 'devpassword',
-        'HOST': '127.0.0.1',
-        'PORT': '5432',
+        'NAME': os.environ.get('DB_NAME', 'pharma_sales_dev'),
+        'USER': os.environ.get('DB_USER', 'postgres'),
+        'PASSWORD': os.environ.get('DB_PASSWORD', 'devpassword'),
+        'HOST': os.environ.get('DB_HOST', '127.0.0.1'),
+        'PORT': os.environ.get('DB_PORT', '5432'),
     }
 }
 
