@@ -31,4 +31,4 @@ WORKDIR /app/apps/backend
 EXPOSE 8000
 
 ENTRYPOINT ["/app/apps/backend/entrypoint.sh"]
-CMD ["gunicorn", "--bind", "0.0.0.0:8000", "--workers", "3", "backend.wsgi:application"]
+CMD ["gunicorn", "--bind", "0.0.0.0:8000", "--workers", "3", "--timeout", "120", "backend.wsgi:application"]

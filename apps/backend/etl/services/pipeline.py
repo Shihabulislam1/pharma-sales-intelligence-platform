@@ -84,26 +84,27 @@ class ETLPipeline:
         from sales.models import PharmacySalesFact
         
         logger.info("Loading records into database...")
-        records = []
-        for _, row in clean_df.iterrows():
-            records.append(PharmacySalesFact(
-                date=row['date'],
-                year=row['year'],
-                month=row['month'],
-                day=row['day'],
-                region=row['region'],
-                country=row['country'],
-                category=row['category'],
-                medicine=row['medicine'],
-                age_group=row['age_group'],
-                units_sold=row['units_sold'],
-                unit_price=row['unit_price'],
-                revenue=row['revenue'],
-                stock_level=row['stock_level'],
-                expiry_days_remaining=row['expiry_days_remaining'],
-                covid_flag=row['covid_flag'],
+        records = [
+            PharmacySalesFact(
+                date=row.date,
+                year=row.year,
+                month=row.month,
+                day=row.day,
+                region=row.region,
+                country=row.country,
+                category=row.category,
+                medicine=row.medicine,
+                age_group=row.age_group,
+                units_sold=row.units_sold,
+                unit_price=row.unit_price,
+                revenue=row.revenue,
+                stock_level=row.stock_level,
+                expiry_days_remaining=row.expiry_days_remaining,
+                covid_flag=row.covid_flag,
                 etl_job=etl_job
-            ))
+            )
+            for row in clean_df.itertuples(index=False)
+        ]
             
         PharmacySalesFact.objects.bulk_create(
             records,
