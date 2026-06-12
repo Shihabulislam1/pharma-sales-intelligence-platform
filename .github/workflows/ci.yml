@@ -85,6 +85,7 @@ jobs:
           context: .
           file: apps/backend/Dockerfile
           push: true
+          provenance: false
           tags: ${{ steps.meta-backend.outputs.tags }}
           labels: ${{ steps.meta-backend.outputs.labels }}
 
@@ -122,5 +123,6 @@ jobs:
           context: .
           file: apps/frontend/Dockerfile
           push: true
+          provenance: false
           tags: ${{ steps.meta-frontend.outputs.tags }}
           labels: ${{ steps.meta-frontend.outputs.labels }}
