@@ -10,7 +10,8 @@ RUN npm ci
 COPY . .
 
 # Build the frontend application
-RUN npx nx build frontend --skip-nx-cache
+# NX daemon hangs in Docker containers, so we call vite directly
+RUN npx vite build --config apps/frontend/vite.config.mts
 
 # Stage 2: Serve with Nginx
 FROM nginx:alpine
