@@ -10,8 +10,9 @@ RUN npm ci
 COPY . .
 
 # Build the frontend application
-# NX daemon hangs in Docker containers, so we call vite directly
-RUN npx vite build --config apps/frontend/vite.config.mts
+# React Router's vite plugin keeps Node alive after build; timeout kills it, then we verify output
+RUN timeout 60 npx vite build --config apps/frontend/vite.config.mts; \
+    test -d apps/frontend/build/client && echo "Frontend build completed successfully"
 
 # Stage 2: Serve with Nginx
 FROM nginx:alpine
